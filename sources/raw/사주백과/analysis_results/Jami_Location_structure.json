@@ -1,0 +1,20 @@
+{
+  "file_name": "Jami_Location",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Location.db",
+  "file_size": 75776,
+  "header_hex": "2c0200080002480000002400240001002400090000005c9851858c3353850000000400010000ff00ff120000008482006aa1...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Location.MB",
+      "size": 16384
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Location.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": ",  H   $ $  $    \\Q3S           jQbQ $                             `G7 ^  f       200000Jami_Brother.db                                                                                                                                                                                                                                                      IDX SENTENCE1 SENTENCE2 DATA     korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

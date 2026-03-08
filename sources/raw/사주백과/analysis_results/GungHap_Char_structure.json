@@ -1,0 +1,20 @@
+{
+  "file_name": "GungHap_Char",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Char.db",
+  "file_size": 43008,
+  "header_hex": "180100080002640000001400140001000800040000005c0be96b000000000000000200010000ff00ff120000002f2d008614...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Char.MB",
+      "size": 188416
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Char.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  d          \\k              /- kk                              `X< B  F       kkkGungHap_Char.db                                                                                                                                                                                                                                                      IDX Contents   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

@@ -1,0 +1,20 @@
+{
+  "file_name": "guikok",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/guikok.db",
+  "file_size": 235520,
+  "header_hex": "030100080002810200007200720001001d000a000000fc310c85fc8c04850000000200010000ff00ff12000000ece800063b...",
+  "possible_version": "Paradox 5.x",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/guikok.MB",
+      "size": 122880
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/guikok.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "    r r      1           ;; r                             ^>7 >  B       27;guikok.db                                                                                                                                                                                                                                                            IDX DATA   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 "
+}

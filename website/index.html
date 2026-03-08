@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>골든 케이스 | TJ 사주 통합</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <p class="eyebrow">TJ 사주 통합 프로젝트</p>
+        <h1>골든 케이스 실행</h1>
+        <p class="lede">1986-09-02 10:30 KST 기준으로 4개 프로그램 결과를 다시 실행하여 간지/양・음력 변환을 보여줍니다.</p>
+      </header>
+
+      <section class="controls">
+        <button id="golden-case-btn" class="primary">골든 케이스 실행</button>
+        <span id="status" class="status"></span>
+      </section>
+
+      <section id="results" class="results" aria-live="polite"></section>
+    </main>
+    <script src="app.js"></script>
+  </body>
+</html>

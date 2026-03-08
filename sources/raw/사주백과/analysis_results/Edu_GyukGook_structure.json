@@ -1,0 +1,20 @@
+{
+  "file_name": "Edu_GyukGook",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Edu_GyukGook.db",
+  "file_size": 43008,
+  "header_hex": "5e01000800024d0000001400140001001200080000004cc4e66b2ca6e46b0000000300010000ff00ff12000000f1840088cd...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Edu_GyukGook.MB",
+      "size": 57344
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Edu_GyukGook.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "^  M          Lk,k           kk                              C: J  P       22hkmkskwkresttemp.DB                                                                                                                                                                                                                                                          Hanja IDX DATA    korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   "
+}

@@ -1,0 +1,15 @@
+{
+  "program_id": "lifeunse",
+  "collection": "saju_raw_lifeunse",
+  "source_path": "sources/raw/라이프운세/LifeUnse/lifeunse.mdb",
+  "content_hash": "3ac4f02bbd51e66c0b77bb928c89f74d4b71473b2f5ac4b2d8fbbcafc0681d2a",
+  "schema_version": "1.0.0",
+  "extracted_at": "2026-03-08T04:12:00Z",
+  "payload_summary": {
+    "file_name": "lifeunse.mdb",
+    "file_size": 101_231_872,
+    "mime_type": "application/octet-stream",
+    "content_preview": null
+  },
+  "ingested_at": "2026-03-08T05:00:00Z"
+}

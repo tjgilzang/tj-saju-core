@@ -1,0 +1,20 @@
+{
+  "file_name": "Name_Ohang",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Name_Ohang.db",
+  "file_size": 63488,
+  "header_hex": "0b01000800027d0000001e001e000100090005000000dcb16885000000000000000300010000ff00ff12000000848200e8ba...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Name_Ohang.MB",
+      "size": 61440
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Name_Ohang.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  }          ܱh               hh                              `&o7 M  S       XKf]LfaLfjLfName_Ohang.db                                                                                                                                                                                                                                                        IDX SENTENCE DATA    korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+}

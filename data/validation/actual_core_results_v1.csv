@@ -1,0 +1,5 @@
+case_id,input_calendar,is_leap_month,year,month,day,hour,minute,gender,expected_solar_ymd,expected_lunar_ymd,expected_gz_year,expected_gz_month,expected_gz_day,expected_gz_hour,legacy_source,note
+conversion-001,solar,0,1986,9,2,10,30,M,19860902,19860702,甲子,甲申,甲午,甲子,lifeunse,골든케이스 실제
+month-boundary-001,solar,0,1990,2,5,0,10,F,19900205,19891010,庚午,戊寅,戊辰,庚子,sajunara,절기 경계 실제
+day-pillar-001,lunar,1,1986,7,3,14,50,F,19860812,19860703,丁卯,辛酉,庚午,丁未,sajubaekgwa,일주 변환 실제
+hour-pillar-001,solar,0,2000,12,31,23,58,M,20001231,20001115,庚辰,戊子,辛丑,壬子,lifeunse,자시 경계 실제

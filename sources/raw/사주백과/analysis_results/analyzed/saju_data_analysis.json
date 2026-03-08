@@ -1,0 +1,8167 @@
+{
+  "keyword_frequencies": {
+    "sinsal": {
+      "을": 20,
+      "인": 8,
+      "사주": 16,
+      "사": 22,
+      "경": 4,
+      "자": 12,
+      "병": 2,
+      "세운": 2,
+      "기": 2,
+      "해": 2,
+      "진": 2
+    },
+    "daeunsal": {
+      "을": 22,
+      "인": 34,
+      "기": 17,
+      "사": 22,
+      "경": 4,
+      "해": 2,
+      "유": 2,
+      "자": 2,
+      "무": 2,
+      "대운": 2,
+      "신": 4,
+      "진": 2
+    },
+    "yearun1": {
+      "기": 24,
+      "사": 20,
+      "을": 8,
+      "인": 4,
+      "사주": 8,
+      "계": 8,
+      "자": 2,
+      "오": 2,
+      "신": 12,
+      "해": 4,
+      "정": 2
+    },
+    "yearun2": {
+      "기": 18,
+      "사": 20,
+      "을": 14,
+      "자": 14,
+      "사주": 8,
+      "신": 40,
+      "병": 4,
+      "인": 2,
+      "정": 4
+    },
+    "yearun3": {
+      "기": 16,
+      "신": 20,
+      "사주": 8,
+      "사": 14,
+      "병": 10,
+      "자": 8,
+      "을": 4,
+      "경": 2,
+      "계": 2,
+      "정": 2,
+      "미": 2,
+      "인": 4
+    },
+    "yearun4": {
+      "사주": 8,
+      "사": 20,
+      "기": 14,
+      "신": 16,
+      "자": 10,
+      "경": 4,
+      "병": 4,
+      "을": 4,
+      "해": 4
+    },
+    "yearun5": {
+      "기": 20,
+      "자": 14,
+      "미": 2,
+      "무": 2,
+      "사주": 8,
+      "사": 18,
+      "병": 4,
+      "진": 4,
+      "을": 6,
+      "경": 4,
+      "오": 2,
+      "신": 20,
+      "해": 4,
+      "정": 4,
+      "인": 6
+    },
+    "yearun6": {
+      "사주": 10,
+      "사": 10,
+      "기": 20,
+      "자": 18,
+      "을": 2,
+      "인": 2,
+      "무": 2,
+      "유": 2,
+      "신": 4
+    },
+    "yearun7": {
+      "기": 22,
+      "을": 14,
+      "자": 10,
+      "사주": 6,
+      "사": 16,
+      "계": 6,
+      "유": 2,
+      "오": 2,
+      "진": 2,
+      "미": 2,
+      "신": 8
+    },
+    "yearun8": {
+      "기": 20,
+      "을": 16,
+      "자": 10,
+      "사주": 6,
+      "사": 18,
+      "계": 4,
+      "유": 2,
+      "오": 2,
+      "진": 2,
+      "병": 2,
+      "미": 2,
+      "신": 4
+    },
+    "yearun9": {
+      "기": 18,
+      "사": 24,
+      "신": 4,
+      "축": 2,
+      "인": 4,
+      "을": 4,
+      "자": 6,
+      "사주": 6,
+      "유": 2,
+      "정": 6,
+      "계": 2,
+      "진": 4,
+      "병": 2,
+      "임": 2
+    },
+    "yearun10": {
+      "기": 18,
+      "인": 4,
+      "무": 2,
+      "자": 14,
+      "사": 26,
+      "을": 4,
+      "사주": 6,
+      "유": 4,
+      "정": 4,
+      "계": 2,
+      "신": 16,
+      "병": 2,
+      "진": 2,
+      "임": 2
+    },
+    "yearunji1": {
+      "기": 8,
+      "인": 6,
+      "사": 16,
+      "사주": 10,
+      "신": 20,
+      "해": 6,
+      "병": 6,
+      "진": 2,
+      "자": 8,
+      "정": 4
+    },
+    "yearunji2": {
+      "기": 26,
+      "자": 18,
+      "미": 4,
+      "인": 6,
+      "진": 4,
+      "경": 2,
+      "사": 12,
+      "신": 12,
+      "사주": 6,
+      "을": 2,
+      "병": 4
+    },
+    "yearunji3": {
+      "기": 18,
+      "인": 8,
+      "신": 8,
+      "병": 4,
+      "정": 8,
+      "사": 6,
+      "자": 4,
+      "임": 2,
+      "무": 2,
+      "을": 2
+    },
+    "yearunji4": {
+      "기": 20,
+      "인": 6,
+      "신": 4,
+      "병": 6,
+      "정": 8,
+      "사": 6,
+      "사주": 2,
+      "자": 4,
+      "임": 2
+    },
+    "yearunji5": {
+      "기": 24,
+      "병": 2,
+      "자": 10,
+      "사": 8,
+      "진": 2,
+      "을": 6,
+      "경": 4,
+      "해": 2,
+      "신": 8,
+      "정": 6,
+      "인": 6,
+      "계": 2,
+      "유": 4,
+      "오": 2
+    },
+    "yearunji6": {
+      "기": 24,
+      "병": 2,
+      "사": 8,
+      "진": 2,
+      "을": 4,
+      "경": 4,
+      "해": 2,
+      "신": 8,
+      "자": 8,
+      "정": 6,
+      "인": 6,
+      "계": 2,
+      "유": 4,
+      "오": 2
+    },
+    "yearunji7": {
+      "사주": 14,
+      "사": 16,
+      "기": 20,
+      "을": 14,
+      "축": 8,
+      "오": 8,
+      "정": 4,
+      "자": 4
+    },
+    "yearunji8": {
+      "사주": 14,
+      "사": 16,
+      "기": 22,
+      "을": 14,
+      "축": 8,
+      "오": 8,
+      "자": 6,
+      "정": 4
+    },
+    "yearunji9": {
+      "기": 14,
+      "자": 12,
+      "을": 8,
+      "경": 2,
+      "신": 4,
+      "정": 4,
+      "병": 2,
+      "인": 2,
+      "사": 10,
+      "임": 2,
+      "무": 2,
+      "유": 2,
+      "진": 4,
+      "계": 2
+    },
+    "yearunji10": {
+      "기": 14,
+      "자": 12,
+      "을": 7,
+      "경": 2,
+      "신": 4,
+      "정": 4,
+      "병": 2,
+      "인": 2,
+      "사": 10,
+      "임": 2,
+      "무": 2,
+      "유": 2,
+      "진": 4,
+      "계": 2
+    },
+    "yearsinsal": {
+      "을": 18,
+      "인": 44,
+      "사": 24,
+      "경": 6,
+      "해": 2,
+      "신": 16,
+      "사주": 2,
+      "유": 2,
+      "자": 2,
+      "무": 4,
+      "진": 2
+    },
+    "FS_CH": {
+      "계": 14,
+      "을": 28,
+      "기": 52,
+      "병": 6,
+      "인": 8,
+      "해": 4,
+      "오": 2,
+      "사": 2
+    },
+    "FS_CHBANG": {
+      "기": 24,
+      "해": 22,
+      "경": 8,
+      "신": 8,
+      "을": 8,
+      "병": 14,
+      "인": 10,
+      "사": 2
+    },
+    "FS_GILB": {
+      "기": 28,
+      "병": 16,
+      "인": 20,
+      "해": 12,
+      "오": 2,
+      "진": 2
+    },
+    "FS_SLBANG": {
+      "병": 4,
+      "진": 4,
+      "정": 2,
+      "신": 4,
+      "사": 4,
+      "자": 4,
+      "오": 6,
+      "미": 8,
+      "축": 4,
+      "무": 2,
+      "해": 4,
+      "갑": 2,
+      "기": 4
+    },
+    "guikok": {
+      "신": 40,
+      "경": 4,
+      "자": 6,
+      "을": 16,
+      "정": 4,
+      "해": 4,
+      "무": 2,
+      "미": 2,
+      "사": 12,
+      "인": 8,
+      "사주": 4,
+      "기": 4,
+      "오": 2
+    },
+    "FS_Bo": {
+      "미": 32,
+      "을": 6,
+      "정": 8,
+      "해": 6,
+      "자": 14,
+      "오": 6,
+      "기": 8,
+      "인": 4,
+      "사": 4,
+      "유": 2
+    },
+    "tojung": {
+      "유": 2,
+      "무": 6,
+      "사": 6,
+      "기": 8,
+      "해": 6,
+      "신": 12,
+      "자": 2,
+      "정": 4,
+      "을": 2,
+      "운세": 2,
+      "오": 6,
+      "미": 2
+    },
+    "Jami_Brother": {
+      "자": 30,
+      "오": 24,
+      "기": 6,
+      "유": 10,
+      "을": 2,
+      "사": 6,
+      "정": 2,
+      "축": 2,
+      "미": 2,
+      "인": 14,
+      "경": 6,
+      "신": 8,
+      "묘": 2,
+      "무": 2
+    },
+    "Jami_Child": {
+      "자": 26,
+      "오": 16,
+      "인": 6,
+      "기": 10,
+      "을": 16,
+      "유": 6,
+      "축": 2,
+      "미": 2,
+      "해": 8,
+      "무": 4,
+      "신": 8,
+      "묘": 4,
+      "병": 2
+    },
+    "Jami_Couple": {
+      "자": 34,
+      "오": 18,
+      "기": 8,
+      "정": 2,
+      "해": 8,
+      "무": 10,
+      "사": 4,
+      "갑": 4,
+      "진": 2,
+      "을": 4,
+      "축": 2,
+      "미": 2,
+      "경": 6,
+      "유": 2,
+      "인": 6,
+      "신": 16
+    },
+    "Jami_Fortune": {
+      "자": 30,
+      "오": 22,
+      "유": 18,
+      "기": 10,
+      "해": 2,
+      "을": 2,
+      "축": 2,
+      "미": 6,
+      "인": 6,
+      "신": 8,
+      "무": 4,
+      "묘": 2
+    },
+    "Jami_Health": {
+      "자": 22,
+      "오": 20,
+      "경": 6,
+      "신": 20,
+      "기": 2,
+      "해": 6,
+      "축": 2,
+      "미": 2,
+      "병": 6,
+      "유": 16,
+      "인": 4,
+      "묘": 2,
+      "정": 2
+    },
+    "Jami_House": {
+      "자": 20,
+      "오": 24,
+      "유": 24,
+      "대운": 2,
+      "병": 2,
+      "신": 12,
+      "축": 4,
+      "미": 2,
+      "을": 6,
+      "해": 2,
+      "임": 2,
+      "기": 6,
+      "인": 8,
+      "계": 4,
+      "경": 4,
+      "묘": 2
+    },
+    "Jami_Location": {
+      "자": 24,
+      "오": 20,
+      "사": 8,
+      "유": 26,
+      "축": 4,
+      "진": 2,
+      "경": 6,
+      "정": 4,
+      "미": 2,
+      "계": 4,
+      "인": 4,
+      "신": 8,
+      "을": 2
+    },
+    "Jami_Money": {
+      "자": 26,
+      "오": 22,
+      "축": 6,
+      "해": 8,
+      "유": 12,
+      "경": 4,
+      "미": 2,
+      "을": 2,
+      "병": 2,
+      "정": 2,
+      "사": 2,
+      "무": 4,
+      "인": 4,
+      "신": 8,
+      "갑": 14,
+      "기": 4
+    },
+    "Jami_Parent": {
+      "자": 20,
+      "오": 18,
+      "유": 10,
+      "인": 10,
+      "을": 8,
+      "무": 2,
+      "기": 10,
+      "축": 2,
+      "미": 4,
+      "진": 2,
+      "갑": 2,
+      "경": 2,
+      "정": 4,
+      "신": 12,
+      "해": 2,
+      "사": 2
+    },
+    "Jami_Friend": {
+      "자": 14,
+      "오": 16,
+      "임": 2,
+      "기": 16,
+      "을": 10,
+      "유": 4,
+      "사": 4,
+      "계": 2,
+      "축": 2,
+      "미": 2,
+      "정": 4,
+      "인": 2,
+      "해": 4
+    },
+    "Jami_Char": {
+      "자": 4,
+      "오": 6,
+      "정": 6,
+      "인": 12,
+      "기": 18,
+      "진": 4,
+      "을": 12,
+      "경": 6,
+      "해": 4,
+      "사": 4,
+      "유": 2,
+      "축": 2,
+      "미": 2,
+      "임": 4,
+      "갑": 2
+    },
+    "Name_Ohang": {
+      "기": 10,
+      "사": 4,
+      "을": 10,
+      "해": 2,
+      "경": 4,
+      "정": 10,
+      "오": 2,
+      "유": 2,
+      "인": 8,
+      "신": 4,
+      "계": 2,
+      "자": 2
+    },
+    "Name_Ohang2": {
+      "기": 10,
+      "사": 4,
+      "을": 10,
+      "해": 2,
+      "경": 4,
+      "정": 10,
+      "오": 2,
+      "유": 2,
+      "인": 8,
+      "신": 4,
+      "계": 2,
+      "자": 2
+    },
+    "Name_Count": {
+      "기": 6,
+      "해": 6,
+      "을": 12,
+      "사": 10,
+      "계": 4,
+      "정": 4,
+      "신": 8,
+      "진": 4,
+      "미": 2,
+      "경": 6,
+      "인": 8,
+      "무": 2
+    },
+    "Gimun_Disease": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Gimun_Entra": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Gimun_Lover": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Gimun_Leisure": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Gimun_MONEY": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Gimun_QUE": {
+      "기": 20,
+      "병": 2,
+      "사": 16,
+      "양화": 2,
+      "유": 8,
+      "진": 4,
+      "정": 4,
+      "묘": 2,
+      "오": 2,
+      "무": 4,
+      "신": 4,
+      "자": 2,
+      "축": 2,
+      "해": 2,
+      "을": 2
+    },
+    "Dang_Brother": {
+      "신": 60,
+      "미": 2,
+      "을": 10,
+      "계": 6,
+      "인": 10,
+      "사": 4
+    },
+    "Dang_Child": {
+      "을": 24,
+      "자": 28,
+      "미": 12,
+      "기": 12,
+      "신": 44
+    },
+    "Dang_Couple": {
+      "자": 18,
+      "계": 14,
+      "사주": 12,
+      "사": 20,
+      "신": 28,
+      "정": 2,
+      "을": 4,
+      "기": 4,
+      "해": 4,
+      "인": 4,
+      "경": 2
+    },
+    "Dang_Job": {
+      "사주": 20,
+      "사": 20,
+      "자": 10,
+      "을": 24,
+      "오": 8,
+      "신": 16
+    },
+    "Dang_Old": {
+      "기": 10,
+      "을": 18,
+      "신": 32,
+      "인": 8,
+      "정": 2
+    },
+    "Dang_Char": {
+      "지지": 10,
+      "유": 8,
+      "인": 8,
+      "자": 16,
+      "을": 16,
+      "신": 32,
+      "진": 8,
+      "해": 8,
+      "기": 8
+    },
+    "Dang_Mind_Char": {
+      "유": 10,
+      "인": 10,
+      "을": 14,
+      "자": 18,
+      "신": 40,
+      "임": 2,
+      "경": 6,
+      "진": 4
+    },
+    "Dang_Middle": {
+      "기": 10,
+      "을": 18,
+      "신": 36,
+      "인": 8
+    },
+    "Dang_First": {
+      "기": 26,
+      "신": 32,
+      "인": 8,
+      "을": 8
+    },
+    "Dang_Dead": {
+      "진": 2,
+      "사": 18,
+      "계": 2,
+      "신": 4,
+      "유": 6,
+      "을": 6,
+      "인": 12,
+      "오": 2
+    },
+    "Select_Time": {
+      "해": 2,
+      "을": 4,
+      "술": 2,
+      "오": 8,
+      "유": 2,
+      "신": 8,
+      "미": 2,
+      "사": 2,
+      "진": 2
+    },
+    "SinSal_Term": {
+      "을": 22,
+      "기": 2,
+      "사": 10,
+      "경": 10,
+      "신": 20,
+      "사주": 2,
+      "인": 2,
+      "묘": 2,
+      "미": 2,
+      "해": 8,
+      "자": 14,
+      "무": 2,
+      "계": 2
+    },
+    "Edu_GyukGook": {
+      "무": 2,
+      "기": 18,
+      "축": 6,
+      "진": 12,
+      "미": 10,
+      "술": 8,
+      "경": 4,
+      "사주": 4,
+      "사": 6,
+      "갑": 4,
+      "계": 6,
+      "인": 12,
+      "지지": 10,
+      "해": 4,
+      "묘": 10,
+      "천간": 2,
+      "을": 2,
+      "자": 2
+    },
+    "Name_Count_Exp": {
+      "진": 16,
+      "인": 8,
+      "사": 6,
+      "자": 16,
+      "신": 16,
+      "유": 6,
+      "무": 8,
+      "미": 6,
+      "정": 8,
+      "기": 10
+    },
+    "GungHap_Couple": {
+      "신": 64,
+      "자": 12,
+      "을": 4,
+      "사": 16,
+      "정": 8,
+      "해": 6,
+      "기": 2,
+      "경": 10,
+      "인": 8,
+      "유": 2
+    },
+    "GungHap_YearGan": {
+      "신": 8,
+      "자": 10,
+      "을": 6,
+      "인": 14,
+      "기": 10,
+      "경": 6,
+      "계": 2,
+      "오": 4,
+      "사": 6,
+      "해": 2,
+      "정": 6,
+      "유": 2
+    },
+    "GungHap_DefectAComplement": {
+      "신": 56,
+      "사주": 18,
+      "사": 18,
+      "오행": 10,
+      "오": 10,
+      "기": 18,
+      "해": 10,
+      "정": 10,
+      "인": 10,
+      "을": 8
+    },
+    "GungHap_Effect": {
+      "신": 20,
+      "사주": 10,
+      "사": 10,
+      "경": 20,
+      "을": 28,
+      "진": 8
+    },
+    "GungHap_TwelveUnSunGung": {
+      "을": 22,
+      "정": 8,
+      "유": 8,
+      "신": 16,
+      "자": 16,
+      "사": 8,
+      "계": 6,
+      "묘": 2
+    },
+    "GungHap_Char": {
+      "신": 16,
+      "자": 8,
+      "무": 8,
+      "을": 8,
+      "진": 8,
+      "경": 8,
+      "인": 16,
+      "해": 14,
+      "계": 8,
+      "미": 8
+    },
+    "ZIP": {
+      "인": 4,
+      "진": 8,
+      "임": 2,
+      "정": 24,
+      "사": 2
+    },
+    "Charm_SubTitle": {
+      "사": 8,
+      "정": 4,
+      "자": 2,
+      "해": 6,
+      "신": 12,
+      "을": 2,
+      "축": 2,
+      "병": 2
+    },
+    "Charm_Title": {
+      "사": 6,
+      "정": 4,
+      "해": 6,
+      "신": 12,
+      "사주": 2,
+      "병": 2
+    },
+    "Myung_Study_MyungJo": {
+      "자": 2,
+      "사": 2
+    },
+    "Myung_Study": {
+      "오행": 2,
+      "오": 2,
+      "자": 6,
+      "진": 2,
+      "기": 10,
+      "지지": 2,
+      "을": 14,
+      "정": 2,
+      "인": 6,
+      "신": 16,
+      "해": 14,
+      "경": 4,
+      "사주": 4,
+      "사": 4,
+      "편관": 6,
+      "묘": 4
+    },
+    "Charm_Contents": {
+      "갑": 4,
+      "을": 10,
+      "오": 8,
+      "사": 20,
+      "진": 2,
+      "신": 4,
+      "인": 4,
+      "자": 4,
+      "미": 2,
+      "정": 4,
+      "무": 2
+    }
+  },
+  "file_categories": {
+    "dang": [
+      "Dang_Brother",
+      "Dang_Child",
+      "Dang_Couple",
+      "Dang_Job",
+      "Dang_Old",
+      "Dang_Char",
+      "Dang_Mind_Char",
+      "Dang_Middle",
+      "Dang_First",
+      "Dang_Dead"
+    ],
+    "jami": [
+      "Jami_Brother",
+      "Jami_Child",
+      "Jami_Couple",
+      "Jami_Fortune",
+      "Jami_Health",
+      "Jami_House",
+      "Jami_Location",
+      "Jami_Money",
+      "Jami_Parent",
+      "Jami_Friend",
+      "Jami_Char"
+    ],
+    "gimun": [
+      "Gimun_Disease",
+      "Gimun_Entra",
+      "Gimun_Lover",
+      "Gimun_Leisure",
+      "Gimun_MONEY",
+      "Gimun_QUE"
+    ],
+    "gunghap": [
+      "GungHap_Couple",
+      "GungHap_YearGan",
+      "GungHap_DefectAComplement",
+      "GungHap_Effect",
+      "GungHap_TwelveUnSunGung",
+      "GungHap_Char"
+    ],
+    "yearun": [
+      "sinsal",
+      "yearun1",
+      "yearun2",
+      "yearun3",
+      "yearun4",
+      "yearun5",
+      "yearun6",
+      "yearun7",
+      "yearun8",
+      "yearun9",
+      "yearun10",
+      "yearunji1",
+      "yearunji2",
+      "yearunji3",
+      "yearunji4",
+      "yearunji5",
+      "yearunji6",
+      "yearunji7",
+      "yearunji8",
+      "yearunji9",
+      "yearunji10",
+      "yearsinsal",
+      "SinSal_Term"
+    ],
+    "name": [
+      "Name_Ohang",
+      "Name_Ohang2",
+      "Name_Count",
+      "Name_TwoSung",
+      "Name_Count_Exp"
+    ],
+    "other": [
+      "daeunsal",
+      "FS_CH",
+      "FS_CHBANG",
+      "FS_GILB",
+      "FS_SLBANG",
+      "guikok",
+      "FS_Bo",
+      "tojung",
+      "five",
+      "Select_Time",
+      "Edu_GyukGook",
+      "ZIP",
+      "Charm_SubTitle",
+      "Charm_Title",
+      "EYCONV",
+      "Myung_Study_MyungJo",
+      "Myung_Study",
+      "Charm_Contents"
+    ]
+  },
+  "file_connections": {
+    "daeunsal": [
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "직장인은",
+          "영전하게"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "시기에는",
+          "직장인은",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "시기에는",
+          "직장인은",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 46,
+        "common_strings_sample": [
+          "천록귀인",
+          "친지나",
+          "조상의",
+          "있으며",
+          "주변의"
+        ]
+      }
+    ],
+    "yearun1": [
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "요합니다",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "각별히",
+          "관계로",
+          "운입니다",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "부동산과",
+          "관계로",
+          "운입니다",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "사업에",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "각별히",
+          "사업에",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "주의를",
+          "관련된"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "운입니다",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "운입니다",
+          "직장인은"
+        ]
+      }
+    ],
+    "yearun2": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "신중을",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "부동산의"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "시기는",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "언행과",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "언행과",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "운으로",
+          "멀어지며",
+          "운입니다",
+          "상심하는",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "가옥의",
+          "망신수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "가옥의"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "부동산의",
+          "직장인은",
+          "구설수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "부동산의",
+          "직장인은",
+          "구설수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "친구와"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "친구와"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "자세로",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "자세로",
+          "직장인은"
+        ]
+      }
+    ],
+    "yearun3": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "신중을",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "부동산의"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 21,
+        "common_strings_sample": [
+          "환자는",
+          "마음이",
+          "건강이",
+          "신용이",
+          "실추됐던"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "합격하게",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "성공을",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "성공을",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "건강관리와"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "경사가",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "가정불화로"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "부동산의",
+          "있으며",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "부동산의",
+          "있으며",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "마음이"
+        ]
+      }
+    ],
+    "yearun4": [
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "시기는",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 21,
+        "common_strings_sample": [
+          "환자는",
+          "마음이",
+          "건강이",
+          "신용이",
+          "실추됐던"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "시기는",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운이니",
+          "시험의",
+          "운입니다",
+          "경사가",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "여의치"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "건강이"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "건강이"
+        ]
+      }
+    ],
+    "yearun5": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "합격하게",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "있으며"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "있으며",
+          "무직자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "있으며"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "운으로",
+          "낙심하는",
+          "운이니",
+          "운입니다",
+          "경거망동을"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "운으로",
+          "낙심하는",
+          "운이니",
+          "운입니다",
+          "경거망동을"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "하십시오",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "하십시오",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "기혼자는",
+          "문제로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "기혼자는",
+          "문제로"
+        ]
+      }
+    ],
+    "yearun6": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "요합니다",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "주의를",
+          "남자를"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      }
+    ],
+    "yearun7": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "각별히",
+          "관계로",
+          "운입니다",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "언행과",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "성공을",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 60,
+        "common_strings_sample": [
+          "운이니",
+          "언행과",
+          "오르는",
+          "관계로",
+          "성공을"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 22,
+        "common_strings_sample": [
+          "사업자는",
+          "운으로",
+          "재산이",
+          "도움으로",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "운으로",
+          "각별히",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "미혼자는",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      }
+    ],
+    "yearun8": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "부동산과",
+          "관계로",
+          "운입니다",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "언행과",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "성공을",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "운으로",
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 60,
+        "common_strings_sample": [
+          "운이니",
+          "언행과",
+          "오르는",
+          "관계로",
+          "성공을"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 23,
+        "common_strings_sample": [
+          "악화로",
+          "사업자는",
+          "운으로",
+          "재산이",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "미혼자는",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사업의",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사업의",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "반드시",
+          "금전의",
+          "사업이"
+        ]
+      }
+    ],
+    "yearun9": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "사업에",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "시기는",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 22,
+        "common_strings_sample": [
+          "사업자는",
+          "운으로",
+          "재산이",
+          "도움으로",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 23,
+        "common_strings_sample": [
+          "악화로",
+          "사업자는",
+          "운으로",
+          "재산이",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 44,
+        "common_strings_sample": [
+          "근심수가",
+          "재도전하는",
+          "사업자는",
+          "시달리는",
+          "건강이"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "가정에",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "가정에",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 24,
+        "common_strings_sample": [
+          "않으면",
+          "마음이",
+          "건강이",
+          "매사에",
+          "근심걱정수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 24,
+        "common_strings_sample": [
+          "않으면",
+          "마음이",
+          "건강이",
+          "매사에",
+          "근심걱정수가"
+        ]
+      }
+    ],
+    "yearun10": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "각별히",
+          "사업에",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "이루니",
+          "건강관리와"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "시기는"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "운으로",
+          "각별히",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "이루니"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 44,
+        "common_strings_sample": [
+          "근심수가",
+          "재도전하는",
+          "사업자는",
+          "시달리는",
+          "건강이"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "관련된"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가옥의"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가정에"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가정에"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "건강이",
+          "매사에",
+          "근심걱정수가",
+          "건강악화로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "건강이",
+          "매사에",
+          "근심걱정수가",
+          "건강악화로"
+        ]
+      }
+    ],
+    "yearunji1": [
+      {
+        "connected_to": "daeunsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "직장인은",
+          "영전하게"
+        ]
+      },
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "운으로",
+          "멀어지며",
+          "운입니다",
+          "상심하는",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "근신자중"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "승진의",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "영전하게",
+          "윗상사의"
+        ]
+      }
+    ],
+    "yearunji2": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "주의를",
+          "관련된"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "경사가",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운이니",
+          "시험의",
+          "운입니다",
+          "경사가",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "미혼자는",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "있으며"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "사주원명",
+          "주의를",
+          "남자를"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "미혼자는",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "미혼자는",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "재산이",
+          "운입니다",
+          "사주원명",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "관련된"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "승진의",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "직장의",
+          "있으니",
+          "재산이",
+          "운이니"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "있으며",
+          "시기에",
+          "냸꼥댴",
+          "재산이"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운이니",
+          "좌천의",
+          "운입니다",
+          "부동산의"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "수산업",
+          "운이니",
+          "좌천의",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "고심하는",
+          "운입니다",
+          "사주원명",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "고심하는",
+          "운입니다",
+          "사주원명",
+          "시기에는",
+          "이루고"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "직장의",
+          "재산이",
+          "사업가는",
+          "운이니"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "직장의",
+          "있으니",
+          "사업가는",
+          "재산이"
+        ]
+      }
+    ],
+    "yearunji3": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "가옥의",
+          "망신수가"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "가정불화로"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "여의치"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "있으며",
+          "무직자는"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가옥의"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "직장의",
+          "있으니",
+          "재산이",
+          "운이니"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 57,
+        "common_strings_sample": [
+          "손재와",
+          "임하여",
+          "운이니",
+          "마음이",
+          "망신수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 21,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "운으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 22,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "냸꼥댴"
+        ]
+      }
+    ],
+    "yearunji4": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "가옥의"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명",
+          "있으며"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사주원명"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "있으며",
+          "시기에",
+          "냸꼥댴",
+          "재산이"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 57,
+        "common_strings_sample": [
+          "손재와",
+          "임하여",
+          "운이니",
+          "마음이",
+          "망신수가"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "운으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 20,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "냸꼥댴"
+        ]
+      }
+    ],
+    "yearunji5": [
+      {
+        "connected_to": "daeunsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "시기에는",
+          "직장인은",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "부동산의",
+          "직장인은",
+          "구설수가"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "부동산의",
+          "있으며",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "운으로",
+          "낙심하는",
+          "운이니",
+          "운입니다",
+          "경거망동을"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사업의",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "가정에",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가정에"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운이니",
+          "좌천의",
+          "운입니다",
+          "부동산의"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 68,
+        "common_strings_sample": [
+          "부부별거와",
+          "운이니",
+          "운이거나",
+          "부동산의",
+          "하시고"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "직장인은",
+          "사업이",
+          "운이며"
+        ]
+      }
+    ],
+    "yearunji6": [
+      {
+        "connected_to": "daeunsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "시기에는",
+          "직장인은",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "부동산의",
+          "직장인은",
+          "구설수가"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운입니다",
+          "부동산의",
+          "있으며",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "운으로",
+          "낙심하는",
+          "운이니",
+          "운입니다",
+          "경거망동을"
+        ]
+      },
+      {
+        "connected_to": "yearun6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "주의를",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "사업의",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운입니다",
+          "가정에",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "가정에"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "있으니",
+          "수산업",
+          "운이니",
+          "좌천의",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "주의를"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 68,
+        "common_strings_sample": [
+          "부부별거와",
+          "운이니",
+          "운이거나",
+          "부동산의",
+          "하시고"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "직장인은",
+          "사업이",
+          "운이며"
+        ]
+      }
+    ],
+    "yearunji7": [
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "친구와"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "하십시오",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "고심하는",
+          "운입니다",
+          "사주원명",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 30,
+        "common_strings_sample": [
+          "영업이",
+          "이별수가",
+          "하십시오",
+          "늘어나며",
+          "때문에"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는"
+        ]
+      }
+    ],
+    "yearunji8": [
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "친구와"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "하십시오",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "고심하는",
+          "운입니다",
+          "사주원명",
+          "시기에는",
+          "이루고"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "사주원명",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "시기에는",
+          "가정불화와",
+          "사업의"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 30,
+        "common_strings_sample": [
+          "영업이",
+          "이별수가",
+          "하십시오",
+          "늘어나며",
+          "때문에"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      }
+    ],
+    "yearunji9": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "운입니다",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "자세로",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "건강이"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "기혼자는",
+          "문제로"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 24,
+        "common_strings_sample": [
+          "않으면",
+          "마음이",
+          "건강이",
+          "매사에",
+          "근심걱정수가"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "건강이",
+          "매사에",
+          "근심걱정수가",
+          "건강악화로"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "직장의",
+          "재산이",
+          "사업가는",
+          "운이니"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 21,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "운으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "운으로"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 76,
+        "common_strings_sample": [
+          "손재와",
+          "건물등으로",
+          "운이니",
+          "않으면",
+          "시달리거나"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "매사에",
+          "있습니다"
+        ]
+      }
+    ],
+    "yearunji10": [
+      {
+        "connected_to": "yearun1",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "않으면",
+          "운입니다",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun2",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "자세로",
+          "직장인은"
+        ]
+      },
+      {
+        "connected_to": "yearun3",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "있으니",
+          "손재와",
+          "재산이",
+          "운입니다",
+          "마음이"
+        ]
+      },
+      {
+        "connected_to": "yearun4",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "마음이",
+          "건강이"
+        ]
+      },
+      {
+        "connected_to": "yearun5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "운입니다",
+          "기혼자는",
+          "문제로"
+        ]
+      },
+      {
+        "connected_to": "yearun7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운이니",
+          "재산이",
+          "운입니다",
+          "도움으로"
+        ]
+      },
+      {
+        "connected_to": "yearun9",
+        "common_strings_count": 24,
+        "common_strings_sample": [
+          "않으면",
+          "마음이",
+          "건강이",
+          "매사에",
+          "근심걱정수가"
+        ]
+      },
+      {
+        "connected_to": "yearun10",
+        "common_strings_count": 19,
+        "common_strings_sample": [
+          "운이니",
+          "건강이",
+          "매사에",
+          "근심걱정수가",
+          "건강악화로"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "재산이",
+          "운이니",
+          "운입니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji2",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "직장의",
+          "있으니",
+          "사업가는",
+          "재산이"
+        ]
+      },
+      {
+        "connected_to": "yearunji3",
+        "common_strings_count": 22,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "냸꼥댴"
+        ]
+      },
+      {
+        "connected_to": "yearunji4",
+        "common_strings_count": 20,
+        "common_strings_sample": [
+          "손재와",
+          "운이니",
+          "마음이",
+          "시기에",
+          "냸꼥댴"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "있으니",
+          "운으로",
+          "운이니",
+          "운입니다",
+          "신경을"
+        ]
+      },
+      {
+        "connected_to": "yearunji7",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "냸꼥댴",
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는"
+        ]
+      },
+      {
+        "connected_to": "yearunji8",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "운으로",
+          "운입니다",
+          "도움으로",
+          "시기에는",
+          "기혼자는"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 76,
+        "common_strings_sample": [
+          "손재와",
+          "건물등으로",
+          "운이니",
+          "않으면",
+          "시달리거나"
+        ]
+      },
+      {
+        "connected_to": "yearsinsal",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "매사에",
+          "있습니다"
+        ]
+      }
+    ],
+    "yearsinsal": [
+      {
+        "connected_to": "daeunsal",
+        "common_strings_count": 46,
+        "common_strings_sample": [
+          "천록귀인",
+          "친지나",
+          "조상의",
+          "있으며",
+          "주변의"
+        ]
+      },
+      {
+        "connected_to": "yearun8",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "반드시",
+          "금전의",
+          "사업이"
+        ]
+      },
+      {
+        "connected_to": "yearunji1",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "영전하게",
+          "윗상사의"
+        ]
+      },
+      {
+        "connected_to": "yearunji5",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "직장인은",
+          "사업이",
+          "운이며"
+        ]
+      },
+      {
+        "connected_to": "yearunji6",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "있으며",
+          "직장인은",
+          "사업이",
+          "운이며"
+        ]
+      },
+      {
+        "connected_to": "yearunji9",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "매사에",
+          "있습니다"
+        ]
+      },
+      {
+        "connected_to": "yearunji10",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "운입니다",
+          "도움으로",
+          "직장인은",
+          "매사에",
+          "있습니다"
+        ]
+      }
+    ],
+    "FS_CH": [
+      {
+        "connected_to": "FS_CHBANG",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "금수불급",
+          "귀하가",
+          "금금불급",
+          "금금태과",
+          "금목태과"
+        ]
+      },
+      {
+        "connected_to": "FS_GILB",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "금수불급",
+          "약하고",
+          "기능이",
+          "발병요인들이",
+          "금금불급"
+        ]
+      },
+      {
+        "connected_to": "FS_Bo",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "금수불급",
+          "금금불급",
+          "금금태과",
+          "금토불급",
+          "금목태과"
+        ]
+      }
+    ],
+    "FS_CHBANG": [
+      {
+        "connected_to": "FS_CH",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "금수불급",
+          "귀하가",
+          "금금불급",
+          "금금태과",
+          "금목태과"
+        ]
+      },
+      {
+        "connected_to": "FS_GILB",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "금수불급",
+          "있으면",
+          "대장의",
+          "질병이",
+          "금금불급"
+        ]
+      },
+      {
+        "connected_to": "FS_SLBANG",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "금수불급",
+          "좋습니다",
+          "질병이",
+          "소화가",
+          "금금불급"
+        ]
+      }
+    ],
+    "FS_GILB": [
+      {
+        "connected_to": "FS_CH",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "금수불급",
+          "약하고",
+          "기능이",
+          "발병요인들이",
+          "금금불급"
+        ]
+      },
+      {
+        "connected_to": "FS_CHBANG",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "금수불급",
+          "있으면",
+          "대장의",
+          "질병이",
+          "금금불급"
+        ]
+      },
+      {
+        "connected_to": "FS_SLBANG",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "가슴이",
+          "금수불급",
+          "질병이",
+          "금금불급",
+          "금금태과"
+        ]
+      }
+    ],
+    "FS_SLBANG": [
+      {
+        "connected_to": "FS_CHBANG",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "금수불급",
+          "좋습니다",
+          "질병이",
+          "소화가",
+          "금금불급"
+        ]
+      },
+      {
+        "connected_to": "FS_GILB",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "가슴이",
+          "금수불급",
+          "질병이",
+          "금금불급",
+          "금금태과"
+        ]
+      },
+      {
+        "connected_to": "FS_Bo",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "금수태과",
+          "금수불급",
+          "숙지황",
+          "오미자",
+          "백작약"
+        ]
+      }
+    ],
+    "FS_Bo": [
+      {
+        "connected_to": "FS_CH",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "금수불급",
+          "금금불급",
+          "금금태과",
+          "금토불급",
+          "금목태과"
+        ]
+      },
+      {
+        "connected_to": "FS_SLBANG",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "금수태과",
+          "금수불급",
+          "숙지황",
+          "오미자",
+          "백작약"
+        ]
+      }
+    ],
+    "Jami_Brother": [
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "도움이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "천기성",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Jami_Child": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "것이다"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      }
+    ],
+    "Jami_Couple": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "특성이",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "대체로",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "대체로",
+          "자명자궁",
+          "오명오궁",
+          "버리는"
+        ]
+      }
+    ],
+    "Jami_Fortune": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명유궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "천기성",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Jami_Health": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "지체부자유자도",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      }
+    ],
+    "Jami_House": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "것이다"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명유궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Jami_Location": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 9,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Jami_Money": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "특성이",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      }
+    ],
+    "Jami_Parent": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 16,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "대체로",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "천기성",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "지체부자유자도",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 15,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "천기성",
+          "대체로",
+          "유리한"
+        ]
+      }
+    ],
+    "Jami_Friend": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "도움이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 13,
+        "common_strings_sample": [
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 12,
+        "common_strings_sample": [
+          "중에는",
+          "자명은",
+          "자명축궁",
+          "오명은",
+          "보조성이"
+        ]
+      },
+      {
+        "connected_to": "Jami_Char",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Jami_Char": [
+      {
+        "connected_to": "Jami_Brother",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "천기성",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Child",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Couple",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "대체로",
+          "자명자궁",
+          "오명오궁",
+          "버리는"
+        ]
+      },
+      {
+        "connected_to": "Jami_Fortune",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "천기성",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Health",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_House",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Location",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Money",
+        "common_strings_count": 8,
+        "common_strings_sample": [
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁",
+          "오명오궁"
+        ]
+      },
+      {
+        "connected_to": "Jami_Parent",
+        "common_strings_count": 10,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "천기성",
+          "대체로",
+          "유리한"
+        ]
+      },
+      {
+        "connected_to": "Jami_Friend",
+        "common_strings_count": 11,
+        "common_strings_sample": [
+          "중에는",
+          "자명축궁",
+          "유리한",
+          "있으면",
+          "자명자궁"
+        ]
+      }
+    ],
+    "Name_Ohang": [
+      {
+        "connected_to": "Name_Ohang2",
+        "common_strings_count": 88,
+        "common_strings_sample": [
+          "손실을",
+          "기회를",
+          "건강도",
+          "순조롭게",
+          "따르지"
+        ]
+      }
+    ],
+    "Name_Ohang2": [
+      {
+        "connected_to": "Name_Ohang",
+        "common_strings_count": 88,
+        "common_strings_sample": [
+          "손실을",
+          "기회를",
+          "건강도",
+          "순조롭게",
+          "따르지"
+        ]
+      }
+    ],
+    "Gimun_Disease": [
+      {
+        "connected_to": "Gimun_Entra",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Lover",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Leisure",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_MONEY",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_QUE",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      }
+    ],
+    "Gimun_Entra": [
+      {
+        "connected_to": "Gimun_Disease",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Lover",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Leisure",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_MONEY",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_QUE",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      }
+    ],
+    "Gimun_Lover": [
+      {
+        "connected_to": "Gimun_Disease",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Entra",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Leisure",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_MONEY",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_QUE",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      }
+    ],
+    "Gimun_Leisure": [
+      {
+        "connected_to": "Gimun_Disease",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Entra",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Lover",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_MONEY",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_QUE",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      }
+    ],
+    "Gimun_MONEY": [
+      {
+        "connected_to": "Gimun_Disease",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Entra",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Lover",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Leisure",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_QUE",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      }
+    ],
+    "Gimun_QUE": [
+      {
+        "connected_to": "Gimun_Disease",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Entra",
+        "common_strings_count": 98,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Lover",
+        "common_strings_count": 97,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_Leisure",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "습니오옥",
+          "강휘상영"
+        ]
+      },
+      {
+        "connected_to": "Gimun_MONEY",
+        "common_strings_count": 96,
+        "common_strings_sample": [
+          "반음탁수",
+          "유화유로",
+          "간합성기",
+          "염양여화",
+          "습니오옥"
+        ]
+      }
+    ],
+    "Dang_Brother": [
+      {
+        "connected_to": "Dang_Child",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "당신은",
+          "다음과",
+          "점쳐볼",
+          "운명을",
+          "있습니다"
+        ]
+      }
+    ],
+    "Dang_Child": [
+      {
+        "connected_to": "Dang_Brother",
+        "common_strings_count": 7,
+        "common_strings_sample": [
+          "당신은",
+          "다음과",
+          "점쳐볼",
+          "운명을",
+          "있습니다"
+        ]
+      },
+      {
+        "connected_to": "Dang_Couple",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "그러나",
+          "갖습니다",
+          "자식을",
+          "다음과",
+          "것입니다"
+        ]
+      }
+    ],
+    "Dang_Couple": [
+      {
+        "connected_to": "Dang_Child",
+        "common_strings_count": 6,
+        "common_strings_sample": [
+          "그러나",
+          "갖습니다",
+          "자식을",
+          "다음과",
+          "것입니다"
+        ]
+      }
+    ],
+    "Dang_Old": [
+      {
+        "connected_to": "Dang_Middle",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "여기서",
+          "천귀성",
+          "하나인"
+        ]
+      },
+      {
+        "connected_to": "Dang_First",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "갖습니다",
+          "여기서",
+          "천귀성"
+        ]
+      }
+    ],
+    "Dang_Middle": [
+      {
+        "connected_to": "Dang_Old",
+        "common_strings_count": 17,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "여기서",
+          "천귀성",
+          "하나인"
+        ]
+      },
+      {
+        "connected_to": "Dang_First",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "여기서",
+          "천귀성",
+          "하나인"
+        ]
+      }
+    ],
+    "Dang_First": [
+      {
+        "connected_to": "Dang_Old",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "갖습니다",
+          "여기서",
+          "천귀성"
+        ]
+      },
+      {
+        "connected_to": "Dang_Middle",
+        "common_strings_count": 18,
+        "common_strings_sample": [
+          "타고났음을",
+          "운수를",
+          "여기서",
+          "천귀성",
+          "하나인"
+        ]
+      }
+    ],
+    "Charm_SubTitle": [
+      {
+        "connected_to": "Charm_Title",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "가택안전에",
+          "달라는",
+          "부정에",
+          "소원성취에",
+          "수호해"
+        ]
+      }
+    ],
+    "Charm_Title": [
+      {
+        "connected_to": "Charm_SubTitle",
+        "common_strings_count": 14,
+        "common_strings_sample": [
+          "가택안전에",
+          "달라는",
+          "부정에",
+          "소원성취에",
+          "수호해"
+        ]
+      }
+    ]
+  },
+  "key_value_patterns": {},
+  "unique_terms": {
+    "천을귀인": 8,
+    "사주원명": 136,
+    "있으므로": 23,
+    "지혜가": 4,
+    "총명하고": 6,
+    "성격이": 12,
+    "사람으로부터": 6,
+    "존경을": 4,
+    "있으면": 118,
+    "입니다": 38,
+    "선망의": 4,
+    "대상이": 6,
+    "되거나": 24,
+    "뛰어나": 4,
+    "이름을": 6,
+    "고생을": 4,
+    "된다는": 14,
+    "스스로": 6,
+    "목숨을": 4,
+    "총이나": 4,
+    "자식을": 12,
+    "옥살이를": 4,
+    "주의를": 36,
+    "합니다": 10,
+    "여자의": 12,
+    "경우도": 6,
+    "재물을": 6,
+    "행복한": 8,
+    "운입니다": 334,
+    "시기에는": 94,
+    "가까운": 12,
+    "친지나": 4,
+    "동료로": 4,
+    "금전의": 12,
+    "융통이나": 4,
+    "개인적인": 4,
+    "애로사항을": 4,
+    "의뢰하면": 4,
+    "도움을": 44,
+    "시기의": 5,
+    "경우에는": 6,
+    "반드시": 22,
+    "상응한": 4,
+    "보답을": 4,
+    "해야하니": 4,
+    "천록귀인": 4,
+    "윗상사의": 6,
+    "도움으로": 52,
+    "영전하거나": 6,
+    "개인적으로": 4,
+    "있으며": 38,
+    "주변의": 4,
+    "유력인사나": 4,
+    "협력자를": 4,
+    "시기이며": 6,
+    "월덕귀인": 8,
+    "개인의": 14,
+    "사업이": 20,
+    "번창하게": 14,
+    "직장인은": 52,
+    "영전하게": 10,
+    "매사에": 34,
+    "막힘없이": 12,
+    "무사태평한": 6,
+    "월덕합": 4,
+    "비슷한": 10,
+    "경우는": 6,
+    "천덕귀인": 8,
+    "조상의": 8,
+    "승진이나": 4,
+    "영전등으로": 4,
+    "발전하는": 4,
+    "형국이며": 4,
+    "천덕합": 4,
+    "일마다": 6,
+    "시기는": 130,
+    "부동산": 16,
+    "관련된": 24,
+    "결과를": 8,
+    "이루니": 68,
+    "손상하고": 6,
+    "부동산과": 6,
+    "사업에": 8,
+    "장애가": 4,
+    "생기기": 12,
+    "쉬우니": 12,
+    "매매에": 12,
+    "요합니다": 12,
+    "그렇지": 16,
+    "않으면": 10,
+    "이루게": 6,
+    "운으로": 80,
+    "동료와": 4,
+    "관계로": 10,
+    "말다툼하거나": 4,
+    "손상될": 4,
+    "있으니": 80,
+    "처신에": 10,
+    "각별히": 8,
+    "주의하시기": 4,
+    "바랍니다": 32,
+    "매사가": 4,
+    "운이며": 66,
+    "우애가": 8,
+    "친구의": 12,
+    "가옥의": 14,
+    "가능한": 10,
+    "사업자는": 16,
+    "친구간에": 10,
+    "언쟁으로": 4,
+    "구설수가": 22,
+    "떠나질": 8,
+    "망신수가": 14,
+    "우려되고": 4,
+    "싸움과": 4,
+    "질병수까지": 10,
+    "예상되는": 4,
+    "근신자중": 34,
+    "마음으로": 26,
+    "부동산을": 6,
+    "매입하는": 6,
+    "남편의": 8,
+    "외도로": 4,
+    "가정파탄의": 8,
+    "위험이": 4,
+    "친구와": 26,
+    "사이가": 12,
+    "멀어지며": 8,
+    "상심하는": 8,
+    "자세로": 12,
+    "언행과": 8,
+    "신중을": 6,
+    "기하는": 4,
+    "부동산의": 16,
+    "재산의": 8,
+    "실추됐던": 4,
+    "신용이": 4,
+    "회복되고": 8,
+    "명예를": 10,
+    "시험에": 8,
+    "합격하게": 4,
+    "등으로": 12,
+    "재산이": 29,
+    "길함이": 6,
+    "질병이": 16,
+    "도적수": 6,
+    "모친의": 26,
+    "우려가": 12,
+    "건강관리와": 4,
+    "예방에": 4,
+    "온집안이": 4,
+    "화기애애하고": 4,
+    "경사가": 8,
+    "손재와": 10,
+    "가정불화로": 10,
+    "근심하게": 4,
+    "만사가": 24,
+    "마음이": 30,
+    "때일수록": 12,
+    "응시하는": 6,
+    "성공을": 8,
+    "거두게": 6,
+    "병약자나": 4,
+    "고질병": 4,
+    "환자는": 4,
+    "건강이": 16,
+    "질병에": 4,
+    "이루고": 52,
+    "이사후": 4,
+    "집안에": 14,
+    "우환이": 4,
+    "방면의": 4,
+    "시험의": 6,
+    "불합격": 4,
+    "잇따른": 4,
+    "불운으로": 4,
+    "고심하게": 4,
+    "운이니": 54,
+    "수험생은": 4,
+    "합격의": 4,
+    "영광을": 4,
+    "재산상의": 4,
+    "손실과": 4,
+    "불화로": 4,
+    "근심하고": 4,
+    "여의치": 12,
+    "불안하고": 8,
+    "초조해지는": 4,
+    "미혼자는": 10,
+    "기혼자는": 44,
+    "무직자는": 8,
+    "관운이": 4,
+    "구설과": 8,
+    "질병수가": 10,
+    "부부이별과": 8,
+    "사업의": 22,
+    "부진으로": 8,
+    "낙심하는": 8,
+    "경거망동을": 8,
+    "사별의": 4,
+    "하십시오": 18,
+    "남자를": 6,
+    "대길한": 6,
+    "관재구설수에": 4,
+    "휘말릴": 4,
+    "허약해지며": 4,
+    "신상의": 4,
+    "문제로": 10,
+    "가정에": 14,
+    "근심이": 22,
+    "뒤따르는": 4,
+    "관재구설수가": 8,
+    "발생하고": 8,
+    "피부나": 8,
+    "건강에": 14,
+    "이상이": 12,
+    "피부관리에": 8,
+    "세심한": 10,
+    "아내와": 8,
+    "자녀로": 12,
+    "만나게": 6,
+    "유혹에": 4,
+    "새로운": 12,
+    "이성을": 10,
+    "연애를": 6,
+    "시작하는": 10,
+    "늘어나고": 6,
+    "곳에서도": 6,
+    "기대하지": 6,
+    "불로소득을": 4,
+    "거두는": 4,
+    "절약하는": 4,
+    "생활을": 8,
+    "하시기": 8,
+    "부부간의": 4,
+    "불화와": 10,
+    "갈등이": 4,
+    "싹트게": 4,
+    "원만한": 8,
+    "부부관계": 4,
+    "유지에": 6,
+    "노력을": 6,
+    "기울이시기": 4,
+    "사기를": 4,
+    "당하거": 4,
+    "출입이": 4,
+    "활발한": 4,
+    "매상이나": 4,
+    "실적이": 4,
+    "오르는": 4,
+    "운이라": 4,
+    "하겠습니다": 4,
+    "부친의": 8,
+    "부진과": 6,
+    "불길한": 14,
+    "늘어나는": 7,
+    "결혼하게": 4,
+    "부부이별수까지": 4,
+    "우려되는": 4,
+    "악화로": 4,
+    "시작과": 8,
+    "늘어나며": 8,
+    "직장에": 4,
+    "라이벌이": 4,
+    "유념하시기": 4,
+    "치밀한": 6,
+    "계획과": 6,
+    "준비로": 6,
+    "추진하시면": 6,
+    "근심걱정수가": 8,
+    "병고에": 8,
+    "시달리는": 4,
+    "남편과": 10,
+    "않거나": 4,
+    "근심수가": 4,
+    "부상으로부터": 4,
+    "회복되는": 4,
+    "그간의": 4,
+    "실패를": 4,
+    "재도전하는": 4,
+    "매사를": 4,
+    "적극적인": 4,
+    "관재구설과": 4,
+    "교통사고수가": 8,
+    "조심하시고": 4,
+    "하거나": 6,
+    "관계의": 14,
+    "건강악화로": 6,
+    "신중하게": 4,
+    "자신의": 20,
+    "길합니다": 4,
+    "뒷일에": 6,
+    "책임이": 6,
+    "따르니": 6,
+    "매입으로": 6,
+    "하므로": 14,
+    "떠나지": 6,
+    "않으며": 6,
+    "해이며": 6,
+    "재산싸움과": 6,
+    "요하는": 10,
+    "우인의": 4,
+    "영전이나": 4,
+    "승진의": 4,
+    "바람끼로": 4,
+    "좋습니다": 26,
+    "냸꼥댴": 5,
+    "시기에": 28,
+    "자식과": 12,
+    "요하며": 18,
+    "좌천의": 6,
+    "태만으로": 6,
+    "어려운": 4,
+    "남편이나": 4,
+    "있으나": 10,
+    "가하며": 6,
+    "신용의": 6,
+    "길하며": 6,
+    "사업가는": 6,
+    "수산업": 4,
+    "직장의": 10,
+    "변동이": 4,
+    "고심하는": 18,
+    "건강관리에": 13,
+    "변동운이며": 4,
+    "좌천으로": 4,
+    "직장생활에": 14,
+    "어려움이": 24,
+    "쓰시기": 4,
+    "재물의": 8,
+    "초조의": 8,
+    "보살에게": 8,
+    "정성으로": 8,
+    "기도하시면": 8,
+    "부부질병과": 6,
+    "분쟁으로": 6,
+    "멀어지고": 6,
+    "낙직의": 10,
+    "많으며": 4,
+    "문서가": 4,
+    "임하여": 4,
+    "금전거래를": 4,
+    "삼가하시고": 8,
+    "손재수가": 4,
+    "금전거래나": 4,
+    "문서거래는": 4,
+    "하시고": 4,
+    "대흉하니": 4,
+    "관련한": 12,
+    "관재구설": 10,
+    "허약해지는": 4,
+    "신경을": 8,
+    "쓰시고": 4,
+    "때문에": 62,
+    "인내하심이": 4,
+    "도적수와": 4,
+    "직장생활의": 4,
+    "부부별거와": 4,
+    "송사수가": 4,
+    "자식에게": 4,
+    "사고수가": 4,
+    "가정불화와": 12,
+    "부부이별": 4,
+    "종기계통": 4,
+    "유념하십시요": 4,
+    "회복내지는": 4,
+    "명예회득": 4,
+    "문서상에": 4,
+    "운이거나": 4,
+    "뜻하지": 4,
+    "횡재수의": 4,
+    "상업인은": 4,
+    "주류업": 8,
+    "기예와": 4,
+    "재주로서": 4,
+    "재물이": 4,
+    "들어오나": 4,
+    "지출이": 6,
+    "득리로서": 4,
+    "유지되는": 4,
+    "음료수": 4,
+    "의리를": 16,
+    "손상하니": 16,
+    "성실과": 16,
+    "저축을": 16,
+    "생활화": 16,
+    "가산이": 4,
+    "영업이": 4,
+    "성공운입니다": 4,
+    "근심으로": 12,
+    "밤잠을": 12,
+    "못이루고": 12,
+    "가슴앓이를": 9,
+    "이별수가": 8,
+    "있습니다": 70,
+    "라이벌": 4,
+    "낙직운이며": 4,
+    "자중하시고": 4,
+    "않으니": 4,
+    "쓰십시요": 4,
+    "건물등으로": 4,
+    "시달리거나": 4,
+    "조심스런": 4,
+    "행동을": 4,
+    "유비무환": 4,
+    "생활하십시요": 4,
+    "문서를": 4,
+    "사사로운": 4,
+    "질투하는": 4,
+    "가정불화수가": 4,
+    "행동거지를": 4,
+    "잘하십시요": 4,
+    "형상으로": 8,
+    "연애의": 4,
+    "불로소득의": 4,
+    "직장을": 7,
+    "얻거나": 6,
+    "새집으로": 4,
+    "나가는": 4,
+    "진학등에": 4,
+    "합자등에": 4,
+    "뒷거래의": 4,
+    "재물로": 4,
+    "귀인의": 12,
+    "번창하게되며": 4,
+    "금금불급": 20,
+    "귀하가": 22,
+    "계절에": 14,
+    "잉태되었음을": 14,
+    "말하며": 14,
+    "운기가": 14,
+    "운기의": 14,
+    "기준시점": 14,
+    "시작되었음을": 14,
+    "말합니다": 44,
+    "선천체질이": 14,
+    "귀하는": 14,
+    "기능이": 22,
+    "약하고": 12,
+    "금금태과": 20,
+    "발병요인들이": 14,
+    "침범해": 10,
+    "금목불급": 10,
+    "금목태과": 12,
+    "금수불급": 16,
+    "금토불급": 4,
+    "맥박이": 14,
+    "기운이": 6,
+    "원기를": 12,
+    "보강해줘야": 6,
+    "신경성": 8,
+    "일어나면": 6,
+    "대장의": 6,
+    "발병요인을": 6,
+    "제거해야": 4,
+    "심장의": 4,
+    "보강해주는": 4,
+    "주의해야": 6,
+    "기능의": 6,
+    "쇠약입니다": 4,
+    "소화가": 4,
+    "심하면": 6,
+    "신경통": 4,
+    "따라서": 6,
+    "체질의": 10,
+    "전반적인": 10,
+    "특징입니다": 8,
+    "쇠약하고": 8,
+    "원기가": 8,
+    "부족하면": 6,
+    "약화가": 4,
+    "다음과": 74,
+    "증상이나": 6,
+    "나타나게": 6,
+    "됩니다": 12,
+    "약해지면": 4,
+    "중심으로": 4,
+    "기침이": 4,
+    "숨결이": 4,
+    "가슴이": 4,
+    "발생할": 6,
+    "체질이면서": 12,
+    "팔다리의": 4,
+    "뼈마디가": 8,
+    "아프고": 6,
+    "증세가": 6,
+    "궁궁이": 6,
+    "백복령": 24,
+    "진액이": 4,
+    "헐떡이며": 4,
+    "아프며": 4,
+    "정신이": 4,
+    "사지골절이": 4,
+    "오미자": 8,
+    "축여서": 4,
+    "숙지황": 26,
+    "찐지황": 4,
+    "백작약": 14,
+    "금수태과": 8,
+    "있어서": 12,
+    "당신은": 20,
+    "경향이": 20,
+    "지나치게": 8,
+    "뛰어난": 4,
+    "가졌습니다": 4,
+    "당신이": 68,
+    "것입니다": 50,
+    "그리고": 4,
+    "세상을": 4,
+    "의지가": 14,
+    "강하고": 24,
+    "고집도": 4,
+    "당신의": 118,
+    "문제가": 4,
+    "좋아하고": 4,
+    "귀하에게는": 14,
+    "팔물탕": 4,
+    "가감쌍화탕": 4,
+    "가감팔미탕": 4,
+    "소개합니다": 14,
+    "일정량을": 6,
+    "혼합해서": 4,
+    "재료의": 4,
+    "가미쌍화탕": 4,
+    "가미팔물탕": 4,
+    "재료를": 4,
+    "육군자탕": 4,
+    "대추를": 4,
+    "목토불급": 4,
+    "얼음이": 4,
+    "나무가": 4,
+    "격으로": 4,
+    "노력한": 4,
+    "결과가": 4,
+    "재앙은": 4,
+    "들어올": 4,
+    "해당하는": 8,
+    "줄어들고": 4,
+    "마음과": 8,
+    "미치는": 4,
+    "심신이": 6,
+    "있지만": 8,
+    "마음에": 4,
+    "수목불급": 6,
+    "목화불급": 8,
+    "화토불급": 8,
+    "화화불급": 10,
+    "토화불급": 10,
+    "토금불급": 4,
+    "목화태과": 6,
+    "화토태과": 8,
+    "화화태과": 10,
+    "토화태과": 10,
+    "토금태과": 4,
+    "수수태과": 10,
+    "수목태과": 6,
+    "수수불급": 8,
+    "목목불급": 8,
+    "목목태과": 8,
+    "토토불급": 6,
+    "토토태과": 6,
+    "금화태과": 6,
+    "금화불급": 4,
+    "수금불급": 4,
+    "수금태과": 4,
+    "목수태과": 4,
+    "자명자궁": 22,
+    "오명오궁": 22,
+    "오명은": 86,
+    "자명은": 92,
+    "천기성": 10,
+    "유리한": 54,
+    "보조성이": 100,
+    "도움이": 4,
+    "외로운": 4,
+    "처지이다": 4,
+    "불리한": 52,
+    "자명축궁": 22,
+    "오명미궁": 22,
+    "주성이": 6,
+    "독자인": 6,
+    "형제를": 6,
+    "자명인궁": 36,
+    "오명신궁": 36,
+    "주성은": 70,
+    "오명에서": 4,
+    "물심양면으로": 4,
+    "형제사이가": 4,
+    "상부상조하는": 4,
+    "인연이": 8,
+    "있거나": 4,
+    "한시기에": 4,
+    "돌보아주어야하는": 4,
+    "입장이": 4,
+    "자명묘궁": 8,
+    "오명유궁": 8,
+    "무곡성": 6,
+    "남들이": 4,
+    "듣는다": 6,
+    "아니다": 4,
+    "것이다": 6,
+    "게다가": 6,
+    "밖에서": 4,
+    "아무튼": 8,
+    "필요가": 4,
+    "오명은묘": 4,
+    "천동성": 4,
+    "얌전하고": 4,
+    "이쁘지만": 4,
+    "연약해지기": 4,
+    "우물을": 4,
+    "꾸준히": 4,
+    "못파는": 4,
+    "우량아같은": 4,
+    "자녀도": 4,
+    "개선되고": 4,
+    "부모의": 6,
+    "칠살성": 8,
+    "않는다": 6,
+    "갑자기": 8,
+    "특성이": 6,
+    "대체로": 10,
+    "버리는": 10,
+    "배우자는": 16,
+    "배우자의": 6,
+    "성격에": 4,
+    "특징은": 4,
+    "보통이거나": 4,
+    "탄탄해": 4,
+    "보이는": 6,
+    "근육질이지만": 4,
+    "운동신경은": 4,
+    "발달하지": 4,
+    "못했다": 4,
+    "성급하고": 4,
+    "비판적인": 4,
+    "파군성": 4,
+    "어렵고": 4,
+    "못하고": 12,
+    "생애를": 6,
+    "기대할": 4,
+    "복덕이": 6,
+    "자미성": 8,
+    "천부성": 6,
+    "것일까": 4,
+    "유명세가": 4,
+    "붙으면서": 4,
+    "바쁘기는": 4,
+    "마찬가지이나": 4,
+    "말이다": 4,
+    "여가를": 4,
+    "시간도": 4,
+    "잠자리에": 4,
+    "이유없는": 4,
+    "허전함에": 4,
+    "생애가": 4,
+    "걸린다": 4,
+    "지체부자유자도": 4,
+    "천양성": 4,
+    "위질환": 4,
+    "간장부위에": 4,
+    "건강유지가": 4,
+    "가능하며": 4,
+    "심각해지거나": 4,
+    "디스크로": 4,
+    "고생하거나": 4,
+    "혈액에": 4,
+    "앓게도": 4,
+    "여성은": 6,
+    "호소하게": 4,
+    "염정성": 4,
+    "어렵다": 6,
+    "중에는": 11,
+    "좋아하며": 4,
+    "햇빛이": 4,
+    "가려지는": 4,
+    "습하거나": 4,
+    "관계가": 8,
+    "인연을": 8,
+    "주거환경이그렇다": 4,
+    "수준이": 4,
+    "오명이면": 4,
+    "상태로": 4,
+    "소유하게": 4,
+    "소유한다": 4,
+    "유관업": 4,
+    "수준의": 6,
+    "탐낭성": 8,
+    "흥행업": 4,
+    "유흥업": 4,
+    "접객업": 4,
+    "음식문화": 4,
+    "유관되는": 4,
+    "종사한다": 4,
+    "상당한": 6,
+    "경영참여": 4,
+    "재능이": 6,
+    "지출명목이": 4,
+    "생겨서": 4,
+    "갑작스럽게": 8,
+    "들어오고": 6,
+    "이유가": 4,
+    "발생해서": 4,
+    "지출되어": 4,
+    "보지만": 4,
+    "전체적으로": 6,
+    "부단한": 4,
+    "간섭이": 4,
+    "잔소리로": 4,
+    "들리지": 4,
+    "모르지만": 4,
+    "부우하거나": 3,
+    "언동을": 4,
+    "좋아하는": 4,
+    "사회적으로": 6,
+    "없으며": 4,
+    "구설수에": 4,
+    "까다로운": 4,
+    "없으나": 4,
+    "얼굴이": 18,
+    "가늘고": 4,
+    "가지고": 24,
+    "지니고": 10,
+    "기회를": 6,
+    "주위의": 4,
+    "받는다": 4,
+    "인정을": 4,
+    "나지만": 4,
+    "융통성이": 4,
+    "부족하여": 4,
+    "기질이": 4,
+    "따르지": 8,
+    "비난을": 4,
+    "조심해야": 4,
+    "고난과": 4,
+    "역경이": 4,
+    "좌절하거나": 4,
+    "실패하는": 4,
+    "예민하고": 4,
+    "고집이": 8,
+    "강하다": 10,
+    "성공할": 4,
+    "기초가": 8,
+    "내적으로": 4,
+    "실속이": 4,
+    "실패하게": 4,
+    "경제적으로도": 4,
+    "불안정하여": 4,
+    "재산에": 8,
+    "손실을": 4,
+    "가져오고": 4,
+    "시키기": 4,
+    "운이다": 16,
+    "가정적으로도": 4,
+    "외유내강": 4,
+    "성품이다": 4,
+    "튼튼하니": 4,
+    "순조롭다": 4,
+    "알리겠다": 4,
+    "다정다감하고": 4,
+    "화합이": 4,
+    "이루어": 4,
+    "안정된": 4,
+    "그러나": 42,
+    "머리가": 4,
+    "명석하고": 4,
+    "성격은": 14,
+    "순조롭게": 4,
+    "성공하여": 8,
+    "화목한": 4,
+    "가정을": 4,
+    "평안하여": 4,
+    "건강도": 4,
+    "좋으니": 4,
+    "편이다": 4,
+    "약하며": 4,
+    "독단적인": 4,
+    "원만하지": 4,
+    "내실이": 4,
+    "불안하여": 4,
+    "실패만": 4,
+    "거듭하게": 4,
+    "일시적인": 4,
+    "성공이": 4,
+    "있더라도": 4,
+    "뜻밖의": 8,
+    "재난으로": 4,
+    "실패하고": 4,
+    "금전적인": 4,
+    "노력형으로": 4,
+    "하고자": 4,
+    "하겠다": 4,
+    "상징하며": 32,
+    "남달리": 4,
+    "재주가": 4,
+    "경우가": 22,
+    "두뇌가": 4,
+    "명석하여": 4,
+    "쌍목성림": 12,
+    "등라반목": 12,
+    "건시열화": 12,
+    "독산고목": 12,
+    "근제송토": 12,
+    "비궁파벌": 12,
+    "목곤쇄편": 12,
+    "척범표양": 12,
+    "수근로수": 12,
+    "금상첨화": 12,
+    "복음잡초": 12,
+    "삼기순수": 24,
+    "삼기상좌": 12,
+    "선화명병": 12,
+    "일기득사": 12,
+    "일기피형": 12,
+    "청룡도주": 12,
+    "하엽연화": 12,
+    "녹야조로": 12,
+    "비조질혈": 12,
+    "염양여화": 8,
+    "복음홍광": 12,
+    "월기득사": 12,
+    "대지보조": 12,
+    "형혹입백": 12,
+    "일월상회": 12,
+    "강휘상영": 12,
+    "흑운차일": 12,
+    "청룡전광": 12,
+    "소전종작": 12,
+    "상아분월": 12,
+    "양화성염": 12,
+    "유화유로": 12,
+    "성타구진": 12,
+    "화련진금": 12,
+    "소훼주옥": 12,
+    "성기득사": 12,
+    "주작투강": 12,
+    "거석압목": 12,
+    "청룡합령": 12,
+    "일출동산": 12,
+    "화소적벽": 12,
+    "복음준산": 12,
+    "물이류취": 12,
+    "조주위학": 12,
+    "반음루기": 12,
+    "산명수수": 12,
+    "암석침식": 12,
+    "영불발아": 12,
+    "유정밀의": 12,
+    "화패지호": 12,
+    "주작입묘": 12,
+    "견우청룡": 10,
+    "복음연약": 12,
+    "전도형격": 12,
+    "습니오옥": 12,
+    "반음탁수": 12,
+    "지형현무": 12,
+    "복궁최잔": 12,
+    "태백봉성": 12,
+    "태백입형": 12,
+    "정정지격": 12,
+    "유로무화": 12,
+    "관부형격": 12,
+    "복음전격": 12,
+    "철추쇄옥": 12,
+    "모산소격": 12,
+    "반음대격": 12,
+    "월하송영": 12,
+    "백호창광": 12,
+    "간합패사": 12,
+    "옥신득기": 12,
+    "반음피상": 12,
+    "입옥자형": 12,
+    "백호출력": 12,
+    "복음상극": 12,
+    "한당월영": 12,
+    "천뢰화개": 12,
+    "낭중고주": 10,
+    "축수도화": 12,
+    "일락서해": 12,
+    "간합성기": 12,
+    "소사화룡": 12,
+    "반음니장": 12,
+    "등사상전": 12,
+    "도세주옥": 12,
+    "복음지망": 12,
+    "유녀간음": 12,
+    "양류감로": 12,
+    "이화춘우": 12,
+    "화개패사": 12,
+    "등사요교": 12,
+    "천을회합": 12,
+    "화개지호": 12,
+    "반음침백": 12,
+    "양쇠음성": 12,
+    "충천분지": 12,
+    "청룡반수": 10,
+    "복음천라": 6,
+    "염양려화": 4,
+    "형제궁으로는": 10,
+    "형제의": 10,
+    "적음과": 10,
+    "운수의": 10,
+    "점쳐볼": 28,
+    "점괘는": 10,
+    "타고난": 26,
+    "형제지간의": 10,
+    "영향을": 10,
+    "예견합니다": 4,
+    "인연과": 8,
+    "운명을": 26,
+    "줍니다": 6,
+    "전생에": 4,
+    "전생은": 4,
+    "곳과는": 4,
+    "세계에서": 4,
+    "사람으": 4,
+    "자궁을": 12,
+    "의미하며": 12,
+    "그러므로": 38,
+    "여기서는": 10,
+    "갖습니다": 32,
+    "아이를": 10,
+    "운수입니다": 10,
+    "운수로": 4,
+    "하나를": 4,
+    "부부궁은": 12,
+    "배우자간의": 12,
+    "금슬과": 12,
+    "이별수": 12,
+    "사주에": 24,
+    "사이에": 6,
+    "집안이": 4,
+    "얻기가": 4,
+    "않습니다": 6,
+    "해로를": 4,
+    "약속하였던": 4,
+    "원앙같은": 4,
+    "당사주의": 10,
+    "직업론에서는": 10,
+    "각자의": 10,
+    "갈래로": 8,
+    "직업을": 24,
+    "구분합니다": 8,
+    "오늘날의": 8,
+    "다양한": 8,
+    "세세하게": 8,
+    "나타내": 8,
+    "주지는": 8,
+    "못하지만": 8,
+    "상징성은": 8,
+    "대부분의": 8,
+    "포괄할": 8,
+    "천직과": 8,
+    "일천귀성": 4,
+    "이후의": 10,
+    "여기서": 30,
+    "말년을": 10,
+    "이라는": 26,
+    "말년운이": 8,
+    "하나인": 24,
+    "천귀성": 6,
+    "타고났음을": 24,
+    "뜻합니다": 24,
+    "천귀성에": 6,
+    "말년은": 8,
+    "운수를": 42,
+    "일천액성": 4,
+    "말년운이란": 8,
+    "천액성": 6,
+    "천액성에": 6,
+    "일천권성": 8,
+    "천권성": 12,
+    "천권성에": 12,
+    "평생성품론은": 10,
+    "지지를": 10,
+    "상징하는": 10,
+    "마리의": 10,
+    "동물에": 8,
+    "비유를": 18,
+    "통하여": 8,
+    "인간의": 18,
+    "자질과": 8,
+    "성격에서": 8,
+    "비롯되는": 8,
+    "이것을": 8,
+    "참고로": 8,
+    "적성과": 8,
+    "진로를": 8,
+    "가늠해": 8,
+    "있기를": 8,
+    "심성궁은": 12,
+    "열두가지": 12,
+    "날짐승": 10,
+    "길짐승에": 10,
+    "자질을": 10,
+    "점쳐본": 10,
+    "가집니다": 10,
+    "위엄이": 4,
+    "성격도": 4,
+    "자신을": 4,
+    "과소평가하는": 4,
+    "자신감이나": 4,
+    "진취성도": 4,
+    "부족한": 14,
+    "월천귀성": 4,
+    "중년운은": 10,
+    "이후부터": 10,
+    "전후까지의": 12,
+    "중년을": 10,
+    "중년운이": 8,
+    "중년은": 8,
+    "월천액성": 4,
+    "월천권성": 8,
+    "월천파성": 4,
+    "연천귀성": 4,
+    "초년운은": 10,
+    "초년기를": 10,
+    "초년운이": 8,
+    "연천액성": 4,
+    "이전까지의": 8,
+    "초년기는": 6,
+    "갖습니": 6,
+    "연천권성": 8,
+    "대왕전": 6,
+    "하였으면": 26,
+    "보내어": 4,
+    "누리게": 6,
+    "주리라": 10,
+    "아니하고": 6,
+    "가두어": 4,
+    "송제대왕": 4,
+    "대왕전에": 12,
+    "빈민구제": 4,
+    "보내거나": 4,
+    "인간갱생": 4,
+    "불연하고": 8,
+    "악덕행사": 4,
+    "선행종사": 4,
+    "소원성취": 6,
+    "염라대왕": 4,
+    "유부녀": 4,
+    "인간적악": 4,
+    "발설지옥": 4,
+    "다스리리라": 4,
+    "마쳤으면": 4,
+    "모선망": 8,
+    "잠버릇": 16,
+    "옆으로": 12,
+    "누워잔다": 6,
+    "울음소리": 14,
+    "쌍가마": 14,
+    "출생할": 14,
+    "아버지가": 6,
+    "부선망": 8,
+    "오른쪽": 6,
+    "느리다": 4,
+    "서쪽으로": 4,
+    "머리를": 10,
+    "반듯하게": 4,
+    "방향으로": 4,
+    "신체가": 10,
+    "둥글고": 4,
+    "남쪽으로": 4,
+    "격각살": 4,
+    "여행을": 4,
+    "떠나거나": 4,
+    "자신이": 6,
+    "도맡아": 4,
+    "경제활동으로": 4,
+    "바쁘게": 4,
+    "실속은": 4,
+    "사람이": 4,
+    "이라고": 4,
+    "처에게": 4,
+    "토기운": 4,
+    "갑기합화토격": 4,
+    "화토격": 4,
+    "일생이": 8,
+    "태어나거나": 4,
+    "태어나고": 4,
+    "계절인": 4,
+    "진술축미": 4,
+    "태어나": 4,
+    "지지가": 6,
+    "강해야": 4,
+    "간지에": 4,
+    "인묘목": 4,
+    "건록격": 6,
+    "곡직격": 6,
+    "일간이": 4,
+    "인묘진": 4,
+    "공귀격": 4,
+    "관계를": 8,
+    "그런데": 6,
+    "괴강격": 4,
+    "순조통합운": 4,
+    "화목성공지상": 4,
+    "군자이거운": 4,
+    "외부내빈지상": 4,
+    "절처봉생지상": 4,
+    "문리고봉운": 4,
+    "조달용문지상": 4,
+    "건전창달운": 4,
+    "문무겸비지상": 4,
+    "독립두령운": 4,
+    "초야월출지상": 4,
+    "자립성가운": 4,
+    "성실창달지상": 4,
+    "지모발달운": 4,
+    "활동정진지상": 4,
+    "위진천하운": 4,
+    "양기승천지상": 4,
+    "독립수지운": 4,
+    "권위현달지상": 4,
+    "학벌이": 4,
+    "사람입니다": 10,
+    "비교해서": 4,
+    "당신과": 4,
+    "학벌이나": 6,
+    "상당히": 10,
+    "편이고": 4,
+    "정신적인": 12,
+    "부부가": 4,
+    "재물적인": 4,
+    "쉽습니다": 4,
+    "남성은": 10,
+    "사주에서": 20,
+    "오행은": 10,
+    "건강상": 18,
+    "순환기": 10,
+    "해당하고": 10,
+    "면에서는": 10,
+    "결단력": 10,
+    "용맹성": 10,
+    "분석력": 8,
+    "냉철한": 8,
+    "발휘합니다": 8,
+    "사주에는": 8,
+    "부족하기": 8,
+    "필요한": 10,
+    "경금은": 10,
+    "하면서": 10,
+    "특성을": 18,
+    "있어서도": 10,
+    "큰일을": 10,
+    "담당하는": 10,
+    "많습니다": 10,
+    "형태와는": 8,
+    "추진함에는": 8,
+    "있어서는": 8,
+    "소심함을": 8,
+    "대단히": 8,
+    "정력을": 8,
+    "소유하고": 8,
+    "만족을": 14,
+    "위주로": 8,
+    "섹스를": 8,
+    "여성에게": 14,
+    "봉사하고자": 8,
+    "부족합니다": 8,
+    "섹스란": 8,
+    "즐거워야": 8,
+    "하는데": 8,
+    "상대의": 8,
+    "상태를": 6,
+    "살피지": 6,
+    "환영받지": 6,
+    "자라는": 8,
+    "나무의": 8,
+    "닮아서": 8,
+    "상황에": 8,
+    "진취적": 8,
+    "낙천적인": 8,
+    "부분이": 8,
+    "보살피는": 8,
+    "마음또한": 8,
+    "강해서": 8,
+    "희망에": 8,
+    "부풀어": 8,
+    "현실에": 8,
+    "보다는": 8,
+    "미래를": 8,
+    "편입니다": 6,
+    "대인관계도": 6,
+    "안주해": 6,
+    "내다보고": 6,
+    "강릉시": 104,
+    "강동면": 26,
+    "정동진": 6,
+    "구정면": 16,
+    "소원성취에": 4,
+    "가택안전에": 4,
+    "해산에": 4,
+    "부정에": 4,
+    "선신이": 4,
+    "수호해": 4,
+    "달라는": 4,
+    "악신퇴치에": 4,
+    "이사에": 4,
+    "충수해에": 4,
+    "안전에": 4,
+    "여행에": 4,
+    "비법에": 4,
+    "기준으로": 4,
+    "중요한": 6,
+    "해당하며": 4,
+    "해당합니다": 4,
+    "일반적으로": 4,
+    "강약은": 4,
+    "신약등을": 4,
+    "논하게": 4,
+    "되는데": 4,
+    "특별히": 4,
+    "분들이": 4,
+    "준용하고": 4,
+    "부분이라고": 4,
+    "부분을": 4,
+    "간과하는": 4,
+    "사주는": 4,
+    "부적이다": 14,
+    "부적을": 6,
+    "만사대길부": 6,
+    "길하다": 4,
+    "지니면": 4,
+    "위치이며": 8,
+    "성취하는": 6
+  }
+}

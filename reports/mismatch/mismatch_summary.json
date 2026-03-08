@@ -1,0 +1,54 @@
+{
+  "timestamp": "2026-03-08T08:04:08Z",
+  "status": "OK",
+  "status_label": "mismatch 0",
+  "checked_cases": 4,
+  "missing_actual": 0,
+  "unexpected_actual": 0,
+  "field_mismatches": 0,
+  "total_issues": 0,
+  "category_summary": [
+    {
+      "category": "양/음력 변환",
+      "count": 0
+    },
+    {
+      "category": "월주의 절기 경계",
+      "count": 0
+    },
+    {
+      "category": "일주",
+      "count": 0
+    },
+    {
+      "category": "시주",
+      "count": 0
+    },
+    {
+      "category": "기타",
+      "count": 0
+    }
+  ],
+  "category_details": {
+    "양/음력 변환": [],
+    "월주의 절기 경계": [],
+    "일주": [],
+    "시주": [],
+    "기타": []
+  },
+  "alert_text": "mismatch 없음",
+  "retry": {
+    "max_retries": 2,
+    "attempts": [
+      {
+        "attempt": 1,
+        "timestamp": "2026-03-08T08:04:08Z",
+        "checked_cases": 4,
+        "missing_actual": 0,
+        "unexpected_actual": 0,
+        "field_mismatches": 0,
+        "total_issues": 0
+      }
+    ]
+  }
+}

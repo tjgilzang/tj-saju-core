@@ -1,0 +1,20 @@
+{
+  "file_name": "Jami_Child",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Child.db",
+  "file_size": 75776,
+  "header_hex": "2c020008000248000000240024000100240008000000bcf052858c1156850000000400010000ff00ff12000000848200caf9...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Child.MB",
+      "size": 16384
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Child.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": ",  H   $ $  $    RV           RR $                             `G7 ^  f       200000Jami_Brother.db                                                                                                                                                                                                                                                      IDX SENTENCE1 SENTENCE2 DATA     korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

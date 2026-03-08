@@ -1,0 +1,51 @@
+{
+  "attempt": 1,
+  "timestamp": "2026-03-08T08:03:49Z",
+  "status": "ISSUES",
+  "checked_cases": 4,
+  "missing_actual": 0,
+  "unexpected_actual": 0,
+  "field_mismatches": 4,
+  "details": [
+    {
+      "case_id": "conversion-001",
+      "field": "expected_solar_ymd",
+      "expected": "19860902",
+      "actual": "19860903",
+      "legacy_source": "lifeunse",
+      "note": "골든케이스",
+      "input_calendar": "solar",
+      "category": "양/음력 변환"
+    },
+    {
+      "case_id": "month-boundary-001",
+      "field": "expected_gz_month",
+      "expected": "戊寅",
+      "actual": "己酉",
+      "legacy_source": "sajunara",
+      "note": "절기 경계",
+      "input_calendar": "solar",
+      "category": "월주의 절기 경계"
+    },
+    {
+      "case_id": "day-pillar-001",
+      "field": "expected_gz_day",
+      "expected": "庚午",
+      "actual": "壬寅",
+      "legacy_source": "sajubaekgwa",
+      "note": "일주 변환",
+      "input_calendar": "lunar",
+      "category": "일주"
+    },
+    {
+      "case_id": "hour-pillar-001",
+      "field": "expected_gz_hour",
+      "expected": "壬子",
+      "actual": "癸丑",
+      "legacy_source": "lifeunse",
+      "note": "자시 경계",
+      "input_calendar": "solar",
+      "category": "시주"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "program_id": "sajudosa",
+  "collection": "saju_raw_sajudosa",
+  "source_path": "sources/raw/사주도사(작명소_만세력)/zDosa.DB",
+  "content_hash": "c12eaf1c2d6d1e5c5feed4e4f7b608e9b33c1f226d2ed8d0288c5f3ae0ca9684",
+  "schema_version": "0.9.0",
+  "extracted_at": "2026-03-06T13:55:40Z",
+  "payload_summary": {
+    "file_name": "zDosa.DB",
+    "file_size": 24_568_900,
+    "mime_type": "application/octet-stream",
+    "content_preview": null
+  },
+  "ingested_at": "2026-03-08T03:45:10Z"
+}

@@ -1,0 +1,20 @@
+{
+  "file_name": "Jami_Friend",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Friend.db",
+  "file_size": 75776,
+  "header_hex": "f40200080004480000001200120001001200040000002c080e85000000000000000600010000ff00ff120000008e8c003e11...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Friend.MB",
+      "size": 57344
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Friend.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  H          ,               >2                              `G7 {         2dd*X/X3X=XGXMXWXJami_Friend.db                                                                                                                                                                                                                                                       IDX SENTENCE1 SENTENCE2 DATA1 SENTENCE3 DATA2       korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            "
+}

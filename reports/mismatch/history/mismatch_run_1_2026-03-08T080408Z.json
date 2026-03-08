@@ -1,0 +1,10 @@
+{
+  "attempt": 1,
+  "timestamp": "2026-03-08T08:04:08Z",
+  "status": "OK",
+  "checked_cases": 4,
+  "missing_actual": 0,
+  "unexpected_actual": 0,
+  "field_mismatches": 0,
+  "details": []
+}

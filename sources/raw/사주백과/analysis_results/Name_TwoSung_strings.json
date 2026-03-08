@@ -1,0 +1,44 @@
+{
+  "utf-8": {
+    "korean": [],
+    "english": [
+      "vkrk",
+      "kName",
+      "TwoSung",
+      "IDX",
+      "Hangeul",
+      "korea"
+    ]
+  },
+  "cp949": {
+    "korean": [],
+    "english": [
+      "kName",
+      "TwoSung",
+      "IDX",
+      "Hangeul",
+      "korea"
+    ]
+  },
+  "euc-kr": {
+    "korean": [],
+    "english": [
+      "vkrk",
+      "kName",
+      "TwoSung",
+      "IDX",
+      "Hangeul",
+      "korea"
+    ]
+  },
+  "latin1": {
+    "korean": [],
+    "english": [
+      "kName",
+      "TwoSung",
+      "IDX",
+      "Hangeul",
+      "korea"
+    ]
+  }
+}

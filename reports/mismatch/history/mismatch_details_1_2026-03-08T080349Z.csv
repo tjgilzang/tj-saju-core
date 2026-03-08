@@ -1,0 +1,5 @@
+case_id,category,field,expected,actual,legacy_source,note,input_calendar
+conversion-001,양/음력 변환,expected_solar_ymd,19860902,19860903,lifeunse,골든케이스,solar
+month-boundary-001,월주의 절기 경계,expected_gz_month,戊寅,己酉,sajunara,절기 경계,solar
+day-pillar-001,일주,expected_gz_day,庚午,壬寅,sajubaekgwa,일주 변환,lunar
+hour-pillar-001,시주,expected_gz_hour,壬子,癸丑,lifeunse,자시 경계,solar

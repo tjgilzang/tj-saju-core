@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+test-results/
+logs/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+npm-debug.log*
+coverage/
+*.log

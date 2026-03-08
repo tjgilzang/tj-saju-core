@@ -1,0 +1,20 @@
+{
+  "file_name": "Name_Count",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Name_Count.db",
+  "file_size": 40960,
+  "header_hex": "46010008000251000000130013000100130005000000ec236685000000000000000400010000ff00ff12000000848200fa2c...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Name_Count.MB",
+      "size": 69632
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Name_Count.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "F  Q          #f               ,f,f                              `&o7 ^  f       2JhKhKhLhLhName_Count.db                                                                                                                                                                                                                                                        IDX SENTENCE1 SENTENCE2 DATA     korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

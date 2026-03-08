@@ -1,0 +1,15 @@
+{
+  "program_id": "sajubaekgwa",
+  "collection": "saju_raw_sajubaekgwa",
+  "source_path": "sources/raw/사주백과/data/Saju_Enc4.exe",
+  "content_hash": "1fa8b09c9f0b3ebcbae024ad5ae7936fb0d0d2977b6a6ea332b17d618ef62012",
+  "schema_version": "1.0.1",
+  "extracted_at": "2026-03-07T22:11:02Z",
+  "payload_summary": {
+    "file_name": "Saju_Enc4.exe",
+    "file_size": 3_227_648,
+    "mime_type": "application/octet-stream",
+    "content_preview": null
+  },
+  "ingested_at": "2026-03-08T00:14:05Z"
+}

@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>50케이스 사주 핵심 검증</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="page">
+    <header>
+      <h1>50케이스 핵심 검증 배치</h1>
+      <p>사주백과·사주나라·라이프운세·사주도사 네 프로그램에서 동일한 50개 케이스를 순환 실행해 양/음력 및 사주 4주의 일치를 확인합니다.</p>
+    </header>
+
+    <section class="controls">
+      <button class="primary" id="runBatchBtn">50케이스 실행</button>
+      <span id="statusText">대기 중</span>
+    </section>
+
+    <section class="progress" id="progressSection">
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+      <p id="progressLabel">진행률: 0/0</p>
+    </section>
+
+    <section class="summary">
+      <h2>결과 요약</h2>
+      <ul id="summaryList" class="summary-list"></ul>
+      <div class="module-stats" id="moduleStats"></div>
+    </section>
+
+    <section class="results">
+      <h2>케이스 별 결과</h2>
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <tr>
+              <th>케이스 ID</th>
+              <th>카테고리</th>
+              <th>입력</th>
+              <th>양력</th>
+              <th>음력</th>
+              <th>모듈 상태</th>
+            </tr>
+          </thead>
+          <tbody id="resultBody"></tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,169 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Sans KR', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  margin: 0;
+  background: #0f172a;
+  color: #f8fafc;
+}
+
+.page {
+  max-width: 1100px;
+  margin: auto;
+  padding: 2rem;
+}
+
+header h1 {
+  margin-bottom: 0.5rem;
+  font-size: 2.4rem;
+}
+
+header p {
+  margin: 0;
+  color: #94a3b8;
+}
+
+.controls {
+  margin: 1.5rem 0;
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+button.primary {
+  background: #2563eb;
+  border: none;
+  color: white;
+  padding: 0.9rem 1.6rem;
+  font-size: 1rem;
+  border-radius: 999px;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+
+button.primary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+#statusText {
+  color: #c3c5cb;
+  font-size: 0.95rem;
+}
+
+.progress {
+  margin-bottom: 1.5rem;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 10px;
+  background: #1f2937;
+  border-radius: 999px;
+  overflow: hidden;
+  margin-bottom: 0.5rem;
+}
+
+.progress-fill {
+  height: 100%;
+  width: 0;
+  background: linear-gradient(90deg, #9333ea, #2563eb);
+  transition: width 0.2s ease;
+}
+
+.summary {
+  margin-bottom: 2rem;
+  background: #111827;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  box-shadow: 0 10px 30px rgba(15, 23, 42, 0.6);
+}
+
+.summary h2 {
+  margin-top: 0;
+}
+
+.summary-list {
+  columns: 2;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  gap: 1rem;
+}
+
+.summary-list li {
+  margin-bottom: 0.4rem;
+}
+
+.module-stats {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+}
+
+.module-stats .chip {
+  padding: 0.4rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(148, 163, 184, 0.2);
+  color: #e0e7ff;
+  font-size: 0.9rem;
+}
+
+.results {
+  background: #0b1123;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.table-wrapper {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+th, td {
+  text-align: left;
+  padding: 0.75rem;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.15);
+}
+
+th {
+  font-size: 0.85rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #94a3b8;
+}
+
+tbody tr:nth-child(odd) {
+  background: rgba(99, 102, 241, 0.04);
+}
+
+tbody tr.done {
+  background: rgba(34, 197, 94, 0.12);
+}
+
+.module-badge {
+  display: inline-flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+}
+
+.module-pill {
+  padding: 0.3rem 0.6rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  background: rgba(59, 130, 246, 0.2);
+  color: #bfdbfe;
+}
+
+.module-pill.error {
+  background: rgba(239, 68, 68, 0.2);
+  color: #fee2e2;
+}

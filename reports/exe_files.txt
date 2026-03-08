@@ -1,0 +1,14 @@
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/LifeUnse.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/Lifeunse_reset.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/uninst.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/LifeUnsePro.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/Lifeunse_reset.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/uninst.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zDosa.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zName.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/4.0 으로 고객 DB 변환.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/QrpSee.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Register.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Saju_Enc4.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/UNWISE.EXE
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/사주백과 4.0.exe

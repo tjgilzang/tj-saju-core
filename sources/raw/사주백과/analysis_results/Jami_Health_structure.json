@@ -1,0 +1,20 @@
+{
+  "file_name": "Jami_Health",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Health.db",
+  "file_size": 75776,
+  "header_hex": "2c02000800024800000024002400010024000c0000005c645785fcef52850000000400010000ff00ff120000008482006a6d...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Health.MB",
+      "size": 8192
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Health.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": ",  H   $ $  $    \\dWR           jmWbmW $                             `G7 ^  f       200000Jami_Brother.db                                                                                                                                                                                                                                                      IDX SENTENCE1 SENTENCE2 DATA     korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

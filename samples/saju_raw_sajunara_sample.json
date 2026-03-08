@@ -1,0 +1,15 @@
+{
+  "program_id": "sajunara",
+  "collection": "saju_raw_sajunara",
+  "source_path": "sources/raw/사주나라.iso",
+  "content_hash": "e3ba60839befa5bfffa3c2b669c786dd8d7055f388d0c39c6a6dff1a0a7704fa",
+  "schema_version": "0.1.0",
+  "extracted_at": "2026-03-02T07:45:28Z",
+  "payload_summary": {
+    "file_name": "사주나라.iso",
+    "file_size": 412_797_824,
+    "mime_type": "application/octet-stream",
+    "content_preview": null
+  },
+  "ingested_at": "2026-03-08T04:55:12Z"
+}

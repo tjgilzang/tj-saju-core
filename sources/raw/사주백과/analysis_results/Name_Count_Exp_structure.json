@@ -1,0 +1,15 @@
+{
+  "file_name": "Name_Count_Exp",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Name_Count_Exp.db",
+  "file_size": 43008,
+  "header_hex": "93010008000251000000140014000100140004000000bc33e56b000000000000000300010000ff00ff12000000c10200c83c...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Name_Count_Exp.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  Q          3k               <k<k                              B; M  S       ȘPkQkQkQkresttemp.DB                                                                                                                                                                                                                                                          IDX Hanja Hangeul    korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                "
+}

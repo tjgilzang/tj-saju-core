@@ -1,0 +1,255 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>로직 맵 | TJ Saju Legacy</title>
+  <style>
+    body {
+      font-family: 'Noto Sans KR', Arial, sans-serif;
+      background:#f7f7f7;
+      color:#1d1d1f;
+      margin:0;
+      padding:0;
+      line-height:1.6;
+    }
+    main {
+      max-width:1100px;
+      margin:0 auto;
+      padding:32px 24px 56px;
+    }
+    h1, h2, h3 {
+      margin:0;
+      font-weight:600;
+      color:#111;
+    }
+    .hero {
+      margin-bottom:32px;
+    }
+    .hero p {
+      color:#555;
+      margin-bottom:8px;
+    }
+    .grid {
+      display:grid;
+      gap:20px;
+      grid-template-columns:repeat(auto-fit,minmax(240px,1fr));
+    }
+    .card {
+      background:#fff;
+      border-radius:18px;
+      padding:20px;
+      box-shadow:0 16px 40px rgba(15,15,25,0.07);
+      border:1px solid #ececec;
+    }
+    .card h3 {
+      font-size:1.1rem;
+      margin-top:0;
+    }
+    .card ul {
+      padding-left:16px;
+      margin:8px 0 0;
+    }
+    table {
+      width:100%;
+      border-collapse:collapse;
+      margin-top:16px;
+    }
+    table th,
+    table td {
+      border:1px solid #d6d6d6;
+      padding:10px;
+      text-align:left;
+      vertical-align:top;
+    }
+    table th {
+      background:#f0f0f0;
+    }
+    .note {
+      background:#fff8e5;
+      padding:14px;
+      border-radius:12px;
+      margin-top:16px;
+      border:1px solid #f0c36d;
+    }
+    #canonical-frame table th:first-child {
+      width:160px;
+    }
+    footer {
+      text-align:center;
+      margin-top:48px;
+      color:#666;
+      font-size:0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="hero" id="logic-map">
+      <p>2026-03-08 · 핵심 로직 문화재</p>
+      <h1>로직 맵</h1>
+      <p>사주백과, 사주나라, 라이프운세, 사주도사 등 네 프로그램의 날짜 입력 → 산출 흐름을 동일한 캔버스에 정리하고, GitHub Pages에서 가시화한 문서입니다.</p>
+    </section>
+
+    <section>
+      <h2>핵심 로직 파일 체크리스트</h2>
+      <div class="grid">
+        <article class="card">
+          <h3>사주백과</h3>
+          <ul>
+            <li><code>data/EYCONV.db</code> → 절기 보정 + 1st/2nd 간지 후보 (`analysis_results/EYCONV_structure.json` 참조)</li>
+            <li><code>data/GanJi_Term.DB</code> + `.MB/.PX` → `gz_year/month/day/hour` 문자열</li>
+            <li><code>data/Select_Time.db</code> → `IDX`, `Title`, `Data`, `korea` 기반 시생 텍스트 (`Select_Time_strings.json`)</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h3>라이프운세</h3>
+          <ul>
+            <li><code>LifeUnse/lifeunse.mdb</code> `main(index, idx)` 기반 문구</li>
+            <li>`life12`, `life12Title`, `btype_couple`, `dream`, `sal`, `fourbody` 등 테이블로 주제 분기</li>
+            <li>프로 버전(`lifeunsepro`, `lifeunseprojuyuk`)은 동일 구조를 복제</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h3>사주도사</h3>
+          <ul>
+            <li><code>zDosa.DB</code>, <code>zName.DB</code> → 사주 인덱스 및 작명 키</li>
+            <li>`.dol`(life, dream1~3, hyung, osix, luck 등) 매핑으로 문구 블록 생성</li>
+            <li><code>dosa.cfg</code>와 <code>hangul*.fnt</code>로 폰트/배치/오행 조건 조정</li>
+          </ul>
+        </article>
+        <article class="card">
+          <h3>사주나라</h3>
+          <ul>
+            <li><code>사주나라.iso</code> 원본만 확보 → ISO 마운트 후 DB/간지 파일 추출 예정</li>
+            <li>현재로선 `입력→출력` 파이프라인은 문서화 전 단계</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section>
+      <h2>입력 / 출력 흐름 비교</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>프로그램</th>
+            <th>입력</th>
+            <th>키 로직</th>
+            <th>출력</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>사주백과</td>
+            <td>양/음력 + 생년월일시, 성별, timezone</td>
+            <td><code>EYCONV</code> → <code>GanJi_Term</code> → <code>Select_Time</code></td>
+            <td>연/월/일/시 간지, 시생 텍스트</td>
+          </tr>
+          <tr>
+            <td>라이프운세</td>
+            <td>사주 + 궁합/운세 옵션</td>
+            <td>`main(index, idx)` → `life12` → `dream`/`btype` 출력</td>
+            <td>케이스별 문장 블록 + 제목</td>
+          </tr>
+          <tr>
+            <td>사주도사</td>
+            <td>사주 + 작명/운세 선택</td>
+            <td><code>zDosa.DB</code>/`zName.DB` → `.dol` 텍스트</td>
+            <td>운세·작명 텍스트 세션</td>
+          </tr>
+          <tr>
+            <td>사주나라</td>
+            <td>ISO → 추출 예정</td>
+            <td>DB 구조 확인 후 매핑</td>
+            <td>분석 중</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="canonical-frame">
+      <h2>통합 프레임</h2>
+      <p class="note">`docs/CORE_LOGIC_VALIDATION_SPEC.md`의 Canonical 입력/출력을 기준으로 4개 프로그램의 핵심 단계들을 정리하였습니다</p>
+      <table>
+        <thead>
+          <tr>
+            <th>단계</th>
+            <th>Canonical 필드</th>
+            <th>사주백과</th>
+            <th>라이프운세</th>
+            <th>사주도사</th>
+            <th>사주나라 (예정)</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>입력</td>
+            <td>`calendar_type`, `is_leap_month`, `year`, `month`, `day`, `hour`, `minute`, `timezone`, `gender`</td>
+            <td>UI에서 직접 수집</td>
+            <td>MDB `index` 산출 기준</td>
+            <td>`zDosa` 인덱스 추출</td>
+            <td>ISO 내부 입력 파일 확보</td>
+          </tr>
+          <tr>
+            <td>중간</td>
+            <td>`solar_ymd`, `lunar_ymd`, `절기`, `ganji_index`, `hour_index`</td>
+            <td>`EYCONV`/`GanJi_Term` 테이블</td>
+            <td>`life12`/`dream` 조합</td>
+            <td>`dosa.cfg` 기반 인덱스</td>
+            <td>추출 데이터로 파헤칠 영역</td>
+          </tr>
+          <tr>
+            <td>출력</td>
+            <td>`gz_year`, `gz_month`, `gz_day`, `gz_hour`, `시생`, `문구블럭(index+idx)`</td>
+            <td>`GanJi_Term` + `Select_Time`</td>
+            <td>`main.Txt` + `btype`/`dream`</td>
+            <td>`*.dol` + `zName` 결과</td>
+            <td>분석 완료 후 매핑</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="qa-log">
+      <h2>QA 리뷰 로그</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>항목</th>
+            <th>검토 내용</th>
+            <th>상태</th>
+            <th>증거</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>문서 정합성</td>
+            <td>각 프로그램의 핵심 파일과 `analysis_results`/`extract` CSV를 대응시켜 흐름을 검증</td>
+            <td>완료</td>
+            <td>본 페이지 &amp; `docs/logic-map.md`</td>
+          </tr>
+          <tr>
+            <td>Playwright E2E</td>
+            <td>`logic-map.html`에 핵심 섹션 존재 + 스크린샷/트레이스</td>
+            <td>실행 예정 (스크린샷/trace `reports/playwright/logic_map.*`)</td>
+            <td>`reports/playwright/logic_map.png`, `logic_map_trace.zip`</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="links">
+      <h2>배포 링크</h2>
+      <ul>
+        <li><a href="https://github.com/tjgilzang/tj-saju-core" target="_blank">GitHub repo (tj-saju-core)</a></li>
+        <li><a href="https://tjgilzang.github.io/tj-saju-core/logic-map.html" target="_blank">GitHub Pages 로직 맵</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      로직 맵 | TJ Saju Legacy · 자동화 문서화 파이프라인
+    </footer>
+  </main>
+</body>
+</html>

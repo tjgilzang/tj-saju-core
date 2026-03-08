@@ -1,0 +1,59 @@
+{
+  "utf-8": {
+    "korean": [],
+    "english": [
+      "hAkmBkqBkwBkMyung",
+      "Study",
+      "MyungJo",
+      "IDX",
+      "Title",
+      "Data",
+      "DBWINUS"
+    ]
+  },
+  "cp949": {
+    "korean": [
+      "사도세자",
+      "빌게이츠"
+    ],
+    "english": [
+      "hAkmBkqBkwBkMyung",
+      "Study",
+      "MyungJo",
+      "IDX",
+      "Title",
+      "Data",
+      "DBWINUS"
+    ]
+  },
+  "euc-kr": {
+    "korean": [
+      "사도세자",
+      "빌게이츠"
+    ],
+    "english": [
+      "hAkmBkqBkwBkMyung",
+      "Study",
+      "MyungJo",
+      "IDX",
+      "Title",
+      "Data",
+      "DBWINUS"
+    ]
+  },
+  "latin1": {
+    "korean": [],
+    "english": [
+      "kmB",
+      "kqB",
+      "kwB",
+      "kMyung",
+      "Study",
+      "MyungJo",
+      "IDX",
+      "Title",
+      "Data",
+      "DBWINUS"
+    ]
+  }
+}

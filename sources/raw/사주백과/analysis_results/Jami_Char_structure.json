@@ -1,0 +1,20 @@
+{
+  "file_name": "Jami_Char",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Char.db",
+  "file_size": 100352,
+  "header_hex": "bc030008000448000000180018000100180003000000ac4e8885000000000000000700010000ff00ff12000000484600c057...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Char.MB",
+      "size": 196608
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/Jami_Char.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  H          N              HF WW                              `G7          22d00000000Jami_Char.db                                                                                                                                                                                                                                                         IDX SENTENCE1 SENTENCE2 SENTENCE3 LOOK CHAR FUTURE        korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               "
+}

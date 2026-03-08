@@ -1,0 +1,20 @@
+{
+  "file_name": "GungHap_Effect",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Effect.db",
+  "file_size": 43008,
+  "header_hex": "180100080002640000001400140001000800040000005c0be96b000000000000000200010000ff00ff12000000dc2e008614...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Effect.MB",
+      "size": 98304
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/GungHap_Effect.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  d          \\k              . kk                              `X< B  F       kǛk˛kGungHap_Effect.db                                                                                                                                                                                                                                                    IDX Contents   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             "
+}

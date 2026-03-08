@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-03-08T08:03:34Z",
+  "global": {
+    "success_count": 529,
+    "failure_count": 0,
+    "retry_count": 0
+  },
+  "programs": {
+    "lifeunse": {
+      "collection": "saju_raw_lifeunse",
+      "documents_attempted": 24,
+      "success_count": 24,
+      "failure_count": 0,
+      "errors": []
+    },
+    "sajubaekgwa": {
+      "collection": "saju_raw_sajubaekgwa",
+      "documents_attempted": 479,
+      "success_count": 479,
+      "failure_count": 0,
+      "errors": []
+    },
+    "sajudosa": {
+      "collection": "saju_raw_sajudosa",
+      "documents_attempted": 25,
+      "success_count": 25,
+      "failure_count": 0,
+      "errors": []
+    },
+    "sajunara": {
+      "collection": "saju_raw_sajunara",
+      "documents_attempted": 1,
+      "success_count": 1,
+      "failure_count": 0,
+      "errors": []
+    }
+  }
+}

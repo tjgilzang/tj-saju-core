@@ -1,0 +1,20 @@
+{
+  "file_name": "sinsal",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/sinsal.db",
+  "file_size": 61440,
+  "header_hex": "040100080002830000001d001d0001001600040000005c73d584000000000000000200010000ff00ff120000008f8d00b67b...",
+  "possible_version": "Paradox 7.x",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/sinsal.MB",
+      "size": 20480
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/sinsal.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "            \\sՄ               {Մ{Մ                               T6            ҄҄҄sinsal.db                                                                      IDX DATA   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "
+}

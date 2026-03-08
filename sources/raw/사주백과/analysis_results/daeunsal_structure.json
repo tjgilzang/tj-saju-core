@@ -1,0 +1,15 @@
+{
+  "file_name": "daeunsal",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/daeunsal.db",
+  "file_size": 30720,
+  "header_hex": "0401000802025d0000000e000e0001000e000500000000000000000000000000000200000000ff00ff120000007a7600b6bb...",
+  "possible_version": "Paradox 7.x",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/daeunsal.MB",
+      "size": 28672
+    }
+  ],
+  "text_sample": " ]                             zv                                `%6            daeunsal.db                                                                    IDX DATA   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       "
+}

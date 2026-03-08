@@ -1,0 +1,82 @@
+{
+  "utf-8": {
+    "korean": [],
+    "english": [
+      "kkkkkkkkkkkkkEYCONV",
+      "YEAR",
+      "MONTH",
+      "ADD",
+      "DAY",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "COUN",
+      "korea"
+    ]
+  },
+  "cp949": {
+    "korean": [],
+    "english": [
+      "kEYCONV",
+      "YEAR",
+      "MONTH",
+      "ADD",
+      "DAY",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "COUN",
+      "korea"
+    ]
+  },
+  "euc-kr": {
+    "korean": [],
+    "english": [
+      "kEYCONV",
+      "YEAR",
+      "MONTH",
+      "ADD",
+      "DAY",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "COUN",
+      "korea"
+    ]
+  },
+  "latin1": {
+    "korean": [],
+    "english": [
+      "kEYCONV",
+      "YEAR",
+      "MONTH",
+      "ADD",
+      "DAY",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "DAY",
+      "HOUR",
+      "MIN",
+      "NAME",
+      "COUN",
+      "korea"
+    ]
+  }
+}

@@ -1,0 +1,1388 @@
+{
+  "timestamp": "2026-03-08T08:08:02.156866Z",
+  "duration_seconds": 0.017773,
+  "summary": {
+    "total": 50,
+    "mismatch": 0,
+    "module_summary": {
+      "sajubaekgwa": {
+        "name": "사주백과",
+        "cases": 50,
+        "mismatch": 0
+      },
+      "sajunara": {
+        "name": "사주나라",
+        "cases": 50,
+        "mismatch": 0
+      },
+      "lifeunse": {
+        "name": "라이프운세",
+        "cases": 50,
+        "mismatch": 0
+      },
+      "sajudosa": {
+        "name": "사주도사",
+        "cases": 50,
+        "mismatch": 0
+      }
+    }
+  },
+  "modules": {
+    "sajubaekgwa": "사주백과",
+    "sajunara": "사주나라",
+    "lifeunse": "라이프운세",
+    "sajudosa": "사주도사"
+  },
+  "cases": [
+    {
+      "case_id": "case-001",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1986-09-02",
+      "lunar": "1986-07-28",
+      "note": "기준 케이스",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "기사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "기사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "기사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "기사"
+        }
+      }
+    },
+    {
+      "case_id": "case-002",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1991-05-17",
+      "lunar": "1991-04-04",
+      "note": "대학 입학용 케이스",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        }
+      }
+    },
+    {
+      "case_id": "case-003",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1975-12-01",
+      "lunar": "1975-10-29",
+      "note": "겨울 아침",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "경인"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "경인"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "경인"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "경인"
+        }
+      }
+    },
+    {
+      "case_id": "case-004",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2000-01-01",
+      "lunar": "1999-11-25",
+      "note": "밀레니엄의 첫날",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        }
+      }
+    },
+    {
+      "case_id": "case-005",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1989-07-15",
+      "lunar": "1989-06-13",
+      "note": "여름 더위 시간",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "을미"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "을미"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "을미"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "을미"
+        }
+      }
+    },
+    {
+      "case_id": "case-006",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1968-03-30",
+      "lunar": "1968-03-02",
+      "note": "춘분 경계 이후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계유"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계유"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계유"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계유"
+        }
+      }
+    },
+    {
+      "case_id": "case-007",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1999-11-09",
+      "lunar": "1999-10-02",
+      "note": "늦가을 오전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "기묘"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "기묘"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "기묘"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "기묘"
+        }
+      }
+    },
+    {
+      "case_id": "case-008",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1980-06-21",
+      "lunar": "1980-05-09",
+      "note": "하지 이전 정오",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임오"
+        }
+      }
+    },
+    {
+      "case_id": "case-009",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2003-04-05",
+      "lunar": "2003-03-04",
+      "note": "새벽 일출 직전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        }
+      }
+    },
+    {
+      "case_id": "case-010",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1995-10-31",
+      "lunar": "1995-09-08",
+      "note": "할로윈 저녁",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "병술"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "병술"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "병술"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "병술"
+        }
+      }
+    },
+    {
+      "case_id": "case-011",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2006-08-08",
+      "lunar": "2006-07-15",
+      "note": "청명 이후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑술"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑술"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑술"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑술"
+        }
+      }
+    },
+    {
+      "case_id": "case-012",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1983-04-12",
+      "lunar": "1983-02-29",
+      "note": "봄 나들이 시간",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "신사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "신사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "신사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "신사"
+        }
+      }
+    },
+    {
+      "case_id": "case-013",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1997-09-09",
+      "lunar": "1997-08-08",
+      "note": "추석 연휴 밤",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "을해"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "을해"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "을해"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "을해"
+        }
+      }
+    },
+    {
+      "case_id": "case-014",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2010-02-14",
+      "lunar": "2010-01-01",
+      "note": "발렌타인데이 자정",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        }
+      }
+    },
+    {
+      "case_id": "case-015",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2005-12-25",
+      "lunar": "2005-11-25",
+      "note": "크리스마스 오후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        }
+      }
+    },
+    {
+      "case_id": "case-016",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "1992-03-01",
+      "lunar": "1992-01-27",
+      "note": "춘삼월 아침",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "신묘"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "신묘"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "신묘"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "신묘"
+        }
+      }
+    },
+    {
+      "case_id": "case-017",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1979-05-22",
+      "lunar": "1979-04-27",
+      "note": "망종 직전 오전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "경오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "경오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "경오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "경오"
+        }
+      }
+    },
+    {
+      "case_id": "case-018",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2001-10-13",
+      "lunar": "2001-08-27",
+      "note": "늦가을 자정",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "병자"
+        }
+      }
+    },
+    {
+      "case_id": "case-019",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "1987-06-06",
+      "lunar": "1987-05-11",
+      "note": "고시원 오전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        }
+      }
+    },
+    {
+      "case_id": "case-020",
+      "category": "일반",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2015-07-19",
+      "lunar": "2015-06-04",
+      "note": "무더위 오후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "정유"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "정유"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "정유"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "정유"
+        }
+      }
+    },
+    {
+      "case_id": "case-021",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "M",
+      "solar": "1982-06-01",
+      "lunar": "1982-04-10",
+      "note": "1982년 윤달 4월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "경진"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "경진"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "경진"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "경진"
+        }
+      }
+    },
+    {
+      "case_id": "case-022",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "F",
+      "solar": "1984-12-03",
+      "lunar": "1984-10-11",
+      "note": "1984년 윤달 10월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임진"
+        }
+      }
+    },
+    {
+      "case_id": "case-023",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "M",
+      "solar": "1987-08-06",
+      "lunar": "1987-06-12",
+      "note": "1987년 윤달 6월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        }
+      }
+    },
+    {
+      "case_id": "case-024",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "F",
+      "solar": "1990-07-05",
+      "lunar": "1990-05-13",
+      "note": "1990년 윤달 5월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계사"
+        }
+      }
+    },
+    {
+      "case_id": "case-025",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "M",
+      "solar": "1993-05-05",
+      "lunar": "1993-03-14",
+      "note": "1993년 윤달 3월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        }
+      }
+    },
+    {
+      "case_id": "case-026",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "F",
+      "solar": "1995-10-04",
+      "lunar": "1995-08-10",
+      "note": "1995년 윤달 8월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        }
+      }
+    },
+    {
+      "case_id": "case-027",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "M",
+      "solar": "1998-07-04",
+      "lunar": "1998-05-11",
+      "note": "1998년 윤달 5월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        }
+      }
+    },
+    {
+      "case_id": "case-028",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "F",
+      "solar": "2001-06-03",
+      "lunar": "2001-04-12",
+      "note": "2001년 윤달 4월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "정미"
+        }
+      }
+    },
+    {
+      "case_id": "case-029",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "M",
+      "solar": "2004-04-02",
+      "lunar": "2004-02-13",
+      "note": "2004년 윤달 2월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "병신"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "병신"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "병신"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "병신"
+        }
+      }
+    },
+    {
+      "case_id": "case-030",
+      "category": "윤달",
+      "input_calendar": "lunar",
+      "gender": "F",
+      "solar": "2006-09-06",
+      "lunar": "2006-07-14",
+      "note": "2006년 윤달 7월 중순",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "경신"
+        }
+      }
+    },
+    {
+      "case_id": "case-031",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2024-01-25",
+      "lunar": "2023-12-15",
+      "note": "23시 진입 직전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계해"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계해"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계해"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계해"
+        }
+      }
+    },
+    {
+      "case_id": "case-032",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2024-01-25",
+      "lunar": "2023-12-15",
+      "note": "23:00 정확한 자시 시작",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-033",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2024-01-25",
+      "lunar": "2023-12-15",
+      "note": "자시 깊은 밤",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-034",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2024-01-26",
+      "lunar": "2023-12-16",
+      "note": "0시 정각 자시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-035",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2024-01-26",
+      "lunar": "2023-12-16",
+      "note": "자시 마무리",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-036",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-12-31",
+      "lunar": "2023-11-19",
+      "note": "년말 자시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-037",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2024-01-01",
+      "lunar": "2023-11-20",
+      "note": "새해 0시 자시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑자"
+        }
+      }
+    },
+    {
+      "case_id": "case-038",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-08-07",
+      "lunar": "2023-06-21",
+      "note": "곳날 22시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "신해"
+        }
+      }
+    },
+    {
+      "case_id": "case-039",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-08-07",
+      "lunar": "2023-06-21",
+      "note": "자시 막바지 23시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        }
+      }
+    },
+    {
+      "case_id": "case-040",
+      "category": "자시 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-08-08",
+      "lunar": "2023-06-22",
+      "note": "8월 8일 0시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "임자"
+        }
+      }
+    },
+    {
+      "case_id": "case-041",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-02-03",
+      "lunar": "2023-01-13",
+      "note": "입춘 전날",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "을사"
+        }
+      }
+    },
+    {
+      "case_id": "case-042",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-02-04",
+      "lunar": "2023-01-14",
+      "note": "입춘 당일",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        }
+      }
+    },
+    {
+      "case_id": "case-043",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-03-04",
+      "lunar": "2023-02-13",
+      "note": "경칩 직전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "갑오"
+        }
+      }
+    },
+    {
+      "case_id": "case-044",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-03-06",
+      "lunar": "2023-02-15",
+      "note": "경칩 이후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "정사"
+        }
+      }
+    },
+    {
+      "case_id": "case-045",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-04-04",
+      "lunar": "2023-02-14",
+      "note": "청명 전",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "무신"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "무신"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "무신"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "무신"
+        }
+      }
+    },
+    {
+      "case_id": "case-046",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-04-05",
+      "lunar": "2023-02-15",
+      "note": "청명 당일",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "무오"
+        }
+      }
+    },
+    {
+      "case_id": "case-047",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-06-20",
+      "lunar": "2023-05-03",
+      "note": "하지 전야",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "신미"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "신미"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "신미"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "신미"
+        }
+      }
+    },
+    {
+      "case_id": "case-048",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-06-21",
+      "lunar": "2023-05-04",
+      "note": "하지 정시",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계미"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계미"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계미"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계미"
+        }
+      }
+    },
+    {
+      "case_id": "case-049",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "M",
+      "solar": "2023-09-22",
+      "lunar": "2023-08-08",
+      "note": "추분 초",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "계축"
+        }
+      }
+    },
+    {
+      "case_id": "case-050",
+      "category": "절기 경계",
+      "input_calendar": "solar",
+      "gender": "F",
+      "solar": "2023-09-23",
+      "lunar": "2023-08-09",
+      "note": "추분 이후",
+      "modules": {
+        "sajubaekgwa": {
+          "mismatched": false,
+          "expected_gz_hour": "을축"
+        },
+        "sajunara": {
+          "mismatched": false,
+          "expected_gz_hour": "을축"
+        },
+        "lifeunse": {
+          "mismatched": false,
+          "expected_gz_hour": "을축"
+        },
+        "sajudosa": {
+          "mismatched": false,
+          "expected_gz_hour": "을축"
+        }
+      }
+    }
+  ]
+}

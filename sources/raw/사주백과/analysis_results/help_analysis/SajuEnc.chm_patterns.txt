@@ -1,0 +1,30 @@
+
+=== 사주 관련 패턴 ===
+"/Html/당사주.files/image002.jpg
+/Html/당사주.files/
+/Html/당사주.htm
+1/Html/▣ 사주백과 기본적인 사용법.htm
+:/Html/▣ 사주백과 기본적인 사용법.files/s1.jpg
+:/Html/▣ 사주백과 기본적인 사용법.files/s5.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image002.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image010.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image014.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image020.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image024.gif
+@/Html/▣ 사주백과 기본적인 사용법.files/image029.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image037.jpg
+@/Html/▣ 사주백과 기본적인 사용법.files/image047.jpg
+N/Html/▣ 사주백과 기본적인 사용법.files/생년월일시 입력.bmp
+
+=== 궁합 관련 패턴 ===
+/Html/궁합.files/
+/Html/궁합.files/image002.gif
+/Html/궁합.files/image004.jpg
+/Html/궁합.files/image006.jpg
+/Html/궁합.files/image007.png
+/Html/궁합.files/image009.jpg
+/Html/궁합.htm
+
+=== DB 관련 패턴 ===
+u퇝쨑쁧퐡틙[BNDB
+뫈nDBm-푓

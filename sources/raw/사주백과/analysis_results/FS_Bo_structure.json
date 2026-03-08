@@ -1,0 +1,20 @@
+{
+  "file_name": "FS_Bo",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/FS_Bo.db",
+  "file_size": 24576,
+  "header_hex": "030100080002320000000b000b00010004000e0000004cc30f85ec570a850000000200010000ff00ff1200000074720056cc...",
+  "possible_version": "Paradox 5.x",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/FS_Bo.MB",
+      "size": 73728
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/FS_Bo.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "  2          LW          tr VR                              ^>7 >  B       FS_Bo.db                                                                                                                                                                                                                                                             IDX DATA   korea                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 "
+}

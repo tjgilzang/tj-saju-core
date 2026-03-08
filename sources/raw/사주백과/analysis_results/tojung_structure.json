@@ -1,0 +1,20 @@
+{
+  "file_name": "tojung",
+  "file_path": "/content/drive/My Drive/논문데이터/사주/data/tojung.db",
+  "file_size": 1181696,
+  "header_hex": "0610000800109000000048004800010048001d0000008cf31b851cff14850000001700010000ff00ff12000000f5f300c0fc...",
+  "possible_version": "Unknown",
+  "related_files": [
+    {
+      "type": "MB",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/tojung.MB",
+      "size": 790528
+    },
+    {
+      "type": "PX",
+      "path": "/content/drive/My Drive/논문데이터/사주/data/tojung.PX",
+      "size": 4096
+    }
+  ],
+  "text_sample": "     H H  H                H                             ^>7 Q         2dddddddd n%o)o1o9o?oFoLoSoYo_ogonovo~ooooooooootojung.db                                                                                                                                                                                                                                                            IDX Heading Explain First Second Third Fourth Fifth Sixth Seventh Eighth January Febrary March April May June July August September October November December                        korea                                                                                                                                                                                                                                                                                                    "
+}

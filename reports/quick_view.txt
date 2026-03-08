@@ -1,0 +1,67 @@
+[raw top-level]
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주나라.iso
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/QrpSee.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/bgrnd.BMP
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/4.0 으로 고객 DB 변환.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/앞 표지.bmp
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Saju_Enc4.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/new-bk.bmp
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/사주_변환결과
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Saju_Enc4.exe.bak
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/뒷 표지.bmp
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/사주백과 4.0.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/analysis_results
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/UNWISE.EXE
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/data
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/INSTALL.LOG
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Register.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/UNWISE.INI
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Saju4코딩.zip
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/.DS_Store
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hyung.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hangul1.fnt
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hangul3.fnt
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zName.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hangul2.fnt
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zName.DB
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/to.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zmodem32.dll
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/dosa.cfg
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hwa.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hangul5.fnt
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/hangul4.fnt
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/osix.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/IFU688B.inf
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/life.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/su.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/gum.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/mok.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/luck.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/dream1.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zDosa.DB
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/Text
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/dream2.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/dream3.dol
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zDosa.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/tojung.dol
+
+[exe sample]
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/LifeUnse.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/Lifeunse_reset.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnse/uninst.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/LifeUnsePro.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/Lifeunse_reset.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/라이프운세/LifeUnsePro/uninst.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zDosa.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주도사(작명소_만세력)/zName.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/4.0 으로 고객 DB 변환.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/QrpSee.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Register.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/Saju_Enc4.exe
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/UNWISE.EXE
+/Users/tj/.openclaw/workspace/agents/architect/projects/tj-saju-master/sources/raw/사주백과/사주백과 4.0.exe

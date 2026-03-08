@@ -1,0 +1,17 @@
+{
+  "exe_name": "Saju_Enc4.exe",
+  "calculation_terms": {},
+  "gui_terms": {
+    "파일": [
+      "파일이"
+    ]
+  },
+  "potential_functions": [],
+  "potential_sql_queries": [
+    "SelectionStart",
+    "SelectionEnd",
+    "SelectionStart",
+    "SelectionEnd"
+  ],
+  "interesting_patterns": []
+}
