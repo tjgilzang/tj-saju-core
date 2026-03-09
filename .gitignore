@@ -1,5 +1,6 @@
 node_modules/
 artifacts/
+assets/
 test-results/
 logs/
 __pycache__/

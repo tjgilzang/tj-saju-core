@@ -6,7 +6,7 @@ import mimetypes
 import os
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Dict, Iterable, Iterator, List, Optional, Tuple
+from typing import Dict, Iterable, Iterator, List, Optional, Set, Tuple
 
 try:
     import firebase_admin
@@ -43,13 +43,25 @@ PROGRAMS = [
     {
         "program_id": "sajunara",
         "collection": "saju_raw_sajunara",
-        "source_paths": [ROOT / "sources" / "raw" / "사주나라.iso"],
+        "source_paths": [ROOT / "assets" / "large" / "sajunara.iso"],
         "schema_version": "0.1.0",
     },
 ]
 
 DATE_FMT = "%Y-%m-%dT%H:%M:%SZ"
 CHUNK_SIZE = 1 << 20  # 1MB
+
+
+def parse_program_selection(program_args: Optional[List[str]]) -> Optional[Set[str]]:
+    if not program_args:
+        return None
+    selected: Set[str] = set()
+    for arg in program_args:
+        for part in arg.split(","):
+            trimmed = part.strip()
+            if trimmed:
+                selected.add(trimmed)
+    return selected or None
 
 
 def ensure_dirs() -> None:
@@ -217,29 +229,43 @@ def main() -> int:
     parser = argparse.ArgumentParser(description="TJ Saju Firebase ingestion pipeline")
     parser.add_argument("--dry-run", action="store_true", help="Skip actual Firestore writes")
     parser.add_argument("--limit", type=int, help="Limit files per program")
+    parser.add_argument("--program", action="append", help="Target specific program IDs (lifeunse, sajubaekgwa, sajudosa, sajunara)")
     parser.add_argument("--project-id", help="Override Firestore project ID (for credentials)")
     args = parser.parse_args()
 
+    selected_programs = parse_program_selection(args.program)
+    valid_program_ids = {config["program_id"] for config in PROGRAMS}
+    if selected_programs:
+        invalid = selected_programs - valid_program_ids
+        if invalid:
+            parser.error(f"알 수 없는 프로그램 ID: {', '.join(sorted(invalid))}")
+
     ensure_dirs()
     setup_logger()
+    if selected_programs:
+        logging.info("선택된 프로그램: %s", ", ".join(sorted(selected_programs)))
     client = None
     if not args.dry_run:
         client = get_firestone_client(args.project_id)
         if not client:
             logging.warning("Firestore client not initialized; forcing dry run")
             args.dry_run = True
-    summary_stats: Dict[str, Dict] = {}
-    for config in PROGRAMS:
-        program_id = config["program_id"]
-        collection = config["collection"]
-        summary_stats[program_id] = {
-            "collection": collection,
+    summary_stats: Dict[str, Dict] = {
+        config["program_id"]: {
+            "collection": config["collection"],
             "attempts": 0,
             "success": 0,
             "failure": 0,
             "retries": 0,
             "errors": [],
         }
+        for config in PROGRAMS
+    }
+    for config in PROGRAMS:
+        program_id = config["program_id"]
+        if selected_programs and program_id not in selected_programs:
+            continue
+        collection = config["collection"]
         walker = FileWalker(config["source_paths"], limit=args.limit)
         for file_path in walker:
             summary_stats[program_id]["attempts"] += 1

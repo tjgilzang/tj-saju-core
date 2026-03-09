@@ -47,11 +47,13 @@ export FIREBASE_PROJECT_ID=your-project-id
 
 3. 적재 실행
 ```bash
-python scripts/firebase_ingest.py
+python scripts/firebase_ingest.py [--program lifeunse|sajubaekgwa|sajudosa|sajunara] [--limit N]
 ```
+- `--program`으로 처리할 프로그램 ID를 지정하면 해당 프로그램만 적재합니다 (기본값: 모든 프로그램)
+- `--limit`은 프로그램당 처리할 최대 파일 개수를 제한하여 QA/샘플 적재를 빠르게 수행할 수 있습니다
 - 인증 정보가 없으면 자동으로 dry run 모드로 동작
-- `--limit` 옵션으로 프로그램당 처리할 파일 수 제한 가능 (CI/샘플 확인용)
-- `--dry-run` 강제 지정 시 실제 쓰기 없이 로그만 기록
+- `--dry-run`을 추가하면 실제 Firestore 쓰기 없이 로그와 요약만 생성됩니다
+- 운영 예시: `python3 scripts/firebase_ingest.py --program sajubaekgwa --limit 50`
 
 4. 결과/로그
 - 로그: `logs/firestore_ingestion.log`
