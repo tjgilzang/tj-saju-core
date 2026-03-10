@@ -1,22 +1,22 @@
 {
-  "generated_at": "2026-03-10T00:14:10Z",
+  "generated_at": "2026-03-10T00:41:53Z",
   "global": {
-    "success_count": 478,
+    "success_count": 23,
     "failure_count": 0,
     "retry_count": 0
   },
   "programs": {
     "lifeunse": {
       "collection": "saju_raw_lifeunse",
-      "documents_attempted": 0,
-      "success_count": 0,
+      "documents_attempted": 23,
+      "success_count": 23,
       "failure_count": 0,
       "errors": []
     },
     "sajubaekgwa": {
       "collection": "saju_raw_sajubaekgwa",
-      "documents_attempted": 478,
-      "success_count": 478,
+      "documents_attempted": 0,
+      "success_count": 0,
       "failure_count": 0,
       "errors": []
     },
