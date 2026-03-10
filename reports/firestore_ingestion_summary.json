@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T23:55:01Z",
+  "generated_at": "2026-03-10T00:14:10Z",
   "global": {
-    "success_count": 50,
+    "success_count": 478,
     "failure_count": 0,
     "retry_count": 0
   },
@@ -15,8 +15,8 @@
     },
     "sajubaekgwa": {
       "collection": "saju_raw_sajubaekgwa",
-      "documents_attempted": 50,
-      "success_count": 50,
+      "documents_attempted": 478,
+      "success_count": 478,
       "failure_count": 0,
       "errors": []
     },
