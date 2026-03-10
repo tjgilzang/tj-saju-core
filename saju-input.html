@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>사주 입력기</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="page saju-page">
+      <header>
+        <p class="eyebrow">실시간 간지 계산</p>
+        <h1>사주 입력</h1>
+        <p class="lede">출생 정보를 입력하면 양력/음력/간지를 즉시 보여드립니다.</p>
+      </header>
+
+      <form id="sajuForm" class="saju-form">
+        <div class="form-grid">
+          <label class="form-field">
+            <span>연</span>
+            <input id="inputYear" name="year" type="number" min="1900" max="2099" value="1990" required />
+          </label>
+          <label class="form-field">
+            <span>월</span>
+            <input id="inputMonth" name="month" type="number" min="1" max="12" value="1" required />
+          </label>
+          <label class="form-field">
+            <span>일</span>
+            <input id="inputDay" name="day" type="number" min="1" max="31" value="1" required />
+          </label>
+          <label class="form-field">
+            <span>시</span>
+            <input id="inputHour" name="hour" type="number" min="0" max="23" value="0" required />
+          </label>
+          <label class="form-field">
+            <span>분</span>
+            <input id="inputMinute" name="minute" type="number" min="0" max="59" value="0" required />
+          </label>
+          <div class="form-field form-field--wide">
+            <span>달력 유형</span>
+            <div class="tone-group" role="group" aria-label="달력 유형">
+              <label>
+                <input type="radio" name="calendar" value="solar" checked />
+                양력
+              </label>
+              <label>
+                <input type="radio" name="calendar" value="lunar" />
+                음력
+              </label>
+              <label class="tone-group__item">
+                <input id="leapToggle" type="checkbox" name="leap" />
+                윤달
+              </label>
+            </div>
+          </div>
+          <div class="form-field form-field--wide">
+            <span>성별</span>
+            <div class="tone-group" role="group" aria-label="성별">
+              <label>
+                <input type="radio" name="gender" value="M" checked />
+                남성
+              </label>
+              <label>
+                <input type="radio" name="gender" value="F" />
+                여성
+              </label>
+            </div>
+          </div>
+        </div>
+
+        <div class="controls">
+          <button type="submit" class="primary" id="executeButton">간지 계산</button>
+          <p class="status" id="statusMessage" aria-live="polite">입력값을 조정하고 실행을 눌러주세요.</p>
+        </div>
+      </form>
+
+      <section class="results" id="results" aria-live="polite">
+        <article class="card" data-card="solar">
+          <h2>양력</h2>
+          <dl>
+            <div>
+              <dt>날짜</dt>
+              <dd id="resultSolarDate">--</dd>
+            </div>
+            <div>
+              <dt>메시지</dt>
+              <dd id="resultSolarMessage">-</dd>
+            </div>
+          </dl>
+        </article>
+        <article class="card" data-card="lunar">
+          <h2>음력</h2>
+          <dl>
+            <div>
+              <dt>날짜</dt>
+              <dd id="resultLunarDate">--</dd>
+            </div>
+            <div>
+              <dt>윤달</dt>
+              <dd id="resultLunarLeap">-</dd>
+            </div>
+          </dl>
+        </article>
+        <article class="card" data-card="ganzhi">
+          <h2>간지</h2>
+          <dl>
+            <div>
+              <dt>년지</dt>
+              <dd id="resultGzYear">--</dd>
+            </div>
+            <div>
+              <dt>월지</dt>
+              <dd id="resultGzMonth">--</dd>
+            </div>
+            <div>
+              <dt>일지</dt>
+              <dd id="resultGzDay">--</dd>
+            </div>
+            <div>
+              <dt>시지</dt>
+              <dd id="resultGzHour">--</dd>
+            </div>
+          </dl>
+        </article>
+      </section>
+    </main>
+
+    <script type="module" src="js/saju-input.js"></script>
+  </body>
+</html>
