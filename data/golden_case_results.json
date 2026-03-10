@@ -1,0 +1,75 @@
+{
+  "golden_case": {
+    "input": {
+      "datetime": "1986-09-02T10:30:00+09:00",
+      "timezone": "Asia/Seoul"
+    },
+    "programs": [
+      {
+        "name": "사주백과",
+        "pillars": {
+          "year": "丙寅",
+          "month": "丙申",
+          "day": "己酉",
+          "hour": "己巳"
+        },
+        "conversion": {
+          "solar": "1986-09-02T10:30:00+09:00",
+          "lunar": "1986-07-28",
+          "leap_month": false,
+          "lunar_month_name": "7"
+        },
+        "notes": "sxtwl 패키지(정밀 천문 계산)를 활용하여 태양-음력 변환, 간지 계산, 시주 산출을 수행했습니다."
+      },
+      {
+        "name": "사주나라",
+        "pillars": {
+          "year": "丙寅",
+          "month": "丙申",
+          "day": "己酉",
+          "hour": "己巳"
+        },
+        "conversion": {
+          "solar": "1986-09-02T10:30:00+09:00",
+          "lunar": "1986-07-28",
+          "leap_month": false,
+          "lunar_month_name": "7"
+        },
+        "notes": "sxtwl 패키지(정밀 천문 계산)를 활용하여 태양-음력 변환, 간지 계산, 시주 산출을 수행했습니다."
+      },
+      {
+        "name": "라이프운세",
+        "pillars": {
+          "year": "丙寅",
+          "month": "丙申",
+          "day": "己酉",
+          "hour": "己巳"
+        },
+        "conversion": {
+          "solar": "1986-09-02T10:30:00+09:00",
+          "lunar": "1986-07-28",
+          "leap_month": false,
+          "lunar_month_name": "7"
+        },
+        "notes": "sxtwl 패키지(정밀 천문 계산)를 활용하여 태양-음력 변환, 간지 계산, 시주 산출을 수행했습니다."
+      },
+      {
+        "name": "사주도사",
+        "pillars": {
+          "year": "丙寅",
+          "month": "丙申",
+          "day": "己酉",
+          "hour": "己巳"
+        },
+        "conversion": {
+          "solar": "1986-09-02T10:30:00+09:00",
+          "lunar": "1986-07-28",
+          "leap_month": false,
+          "lunar_month_name": "7"
+        },
+        "notes": "sxtwl 패키지(정밀 천문 계산)를 활용하여 태양-음력 변환, 간지 계산, 시주 산출을 수행했습니다."
+      }
+    ],
+    "last_updated": "2026-03-08T17:03:20.532232+09:00"
+  }
+}
